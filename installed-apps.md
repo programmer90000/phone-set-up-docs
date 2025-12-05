@@ -1,4 +1,4 @@
-#Installed Apps
+# Installed Apps
 - Alarmy
 - Amazon Shopping
 - App Mall
