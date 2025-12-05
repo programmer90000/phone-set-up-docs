@@ -1,0 +1,59 @@
+#Installed Apps
+- Alarmy
+- Amazon Shopping
+- App Mall
+- BBC Weather
+- Bing
+- Brave Browser
+- Calculator
+- Google Calendar
+- Fossify Calendar
+- Camera
+- Chat GPT
+- Google Chrome
+- Clock
+- ClubRight
+- Contacts
+- DeepSeek
+- Google Docs
+- Google Drive
+- Microsoft Edge
+- File Manager
+- Files By Google
+- Google Find Hub
+- Google Fit
+- Flipboard
+- Formula 1
+- Gallery
+- Google Gemini
+- GitHub
+- Gmail
+- Google
+- Hisnul Muslim
+- Instagram
+- iQuran
+- Google Keep
+- Microsoft 365 Copilot
+- Manchester United
+- Google Maps
+- Masjid Sunnah Nelson
+- Messages
+- Monzo
+- Nationwide
+- Obsidian
+- OHealth
+- OneDrive
+- Phone
+- Google Photos
+- Google Play Store
+- Pockit
+- Raindrop
+- Scuderia Ferrari
+- StrengthLog
+- Three
+- Microsoft To Do
+- Settings
+- Simple Reminder
+- Google Translate
+- WhatsApp Business
+- YouTube
