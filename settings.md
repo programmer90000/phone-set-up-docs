@@ -53,3 +53,36 @@
 ### Lock Screen
 
 Set `Format` to `Don't show lock screen notifications
+
+### Floating Notifications
+
+Set `Hide Temporarily` to `Don't hide`
+
+Enable floating notifications for the following apps:
+- Alarmy
+- Amazon Shopping
+- Google Calendar
+- Fossify Calendar
+- ChatGPT
+- Clock
+- Contacts
+- File Manager
+- Files by Google
+- Gallery
+- GitHub
+- Google Keep Notes
+- Masjid Sunnah Nelson
+- Messages
+- Monzo
+- OHealth
+- OneDrive
+- Phone
+- Pockit
+- Security
+- Settings
+- Simple Reminder
+- StrengthLog
+- Three
+- Microsoft To Do
+- Nationwide
+- WhatsApp Business
