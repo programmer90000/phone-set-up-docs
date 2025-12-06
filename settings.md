@@ -47,3 +47,9 @@
 - Enable `Press and hold to edit`
 - Disable `Launch Camera`
 - Enable `Pocket mode`
+
+## Notifications & status bar
+
+### Lock Screen
+
+Set `Format` to `Don't show lock screen notifications
