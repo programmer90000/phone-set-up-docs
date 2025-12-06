@@ -32,3 +32,18 @@
 
 - Disable `Portable Hotspot`
 - Enable `Turn off hotspot automatically`
+
+## Lock Screen
+
+- Set `Sleep` to `2 minutes of inactivity`
+- Disable `Rise to wake`
+- Disable `Double tap to wake or turn off screen when device is locked`
+
+### Customise Shortcuts
+
+- Set `Left` to `None`
+- Set `Right` to `None`
+
+- Enable `Press and hold to edit`
+- Disable `Launch Camera`
+- Enable `Pocket mode`
