@@ -86,3 +86,51 @@ Enable floating notifications for the following apps:
 - Microsoft To Do
 - Nationwide
 - WhatsApp Business
+
+### Notification Badges
+
+Enable Notification Badges for the following apps:
+- Alarmy
+- Amazon Shopping
+- App Vault
+- Brave
+- Google Calendar
+- Fossify Calendar
+- ChatGPT
+- Clock
+- Contacts
+- File Manager
+- Files by Google
+- Gallery
+- GetApps
+- GitHub
+- Gmail
+- Google
+- Google Play Store
+- Instagram
+- Google Keep Notes
+- Manchester United
+- Masjid Sunnah Nelson
+- Google Meet
+- Messages
+- Mi Browser
+- Mi Video
+- Monzo
+- Music
+- Nationwide
+- OHealth
+- OneDrive
+- Personal Safety
+- Phone
+- Photos
+- Pockit
+- Scuderia Ferrari
+- Security
+- Settings
+- Simple Reminder
+- Sonicare
+- StrengthLog
+- Themes
+- Three
+- Microsoft To Do
+- WhatsApp Business
