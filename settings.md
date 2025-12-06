@@ -41,8 +41,8 @@
 
 ### Customise Shortcuts
 
-- Set `Left` to `None`
-- Set `Right` to `None`
+    - Set `Left` to `None`
+    - Set `Right` to `None`
 
 - Enable `Press and hold to edit`
 - Disable `Launch Camera`
