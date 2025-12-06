@@ -6,4 +6,29 @@
 
 ## Security Status
 
-Set the `Find Device` setting to `Off`
+- Set the `Find Device` setting to `Off`
+
+## WiFi
+
+- Connect to the WiFi
+
+## Bluetooth
+
+- Set it too off
+
+## Mobile Network
+
+- Disable `Mobile Data`
+
+### Data Roaming
+
+- Disable `Data Roaming`
+
+## Interconnectivity
+
+- Disable `Xiaomi Interconnectivity`
+
+## Portable Hotspot
+
+- Disable `Portable Hotspot`
+- Enable `Turn off hotspot automatically`
