@@ -298,7 +298,7 @@ Enable
 
 ## Personalisation
 
-### Lock screen
+### Lock Style
 
 - Select `Customise`
   - Select `Wallpaper`
