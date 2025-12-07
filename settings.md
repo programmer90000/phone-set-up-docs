@@ -331,3 +331,53 @@ Enable
 
 ### Fingerprint Effects
 - Set it to `Default`
+
+## Fingerprints, face data, and screen lock
+
+- Enable `Screen Lock`
+- Enable `Fingerprint Unlock`
+- Disable `Privacy Protection Password`
+
+### Emergency Alerts
+
+- Enable `Allow Alerts`
+- Enable `Extreme Alerts`
+- Enable `Severe Alerts`
+- Enable `Vibration`
+- Set `Alert Reminder` to `Never`
+- Disable `Always alert at full volume`
+
+## Privacy
+
+- Disable `Find Hub`
+- Disable `Allow Pinning Apps`
+- Enable `Protection From Wi-Fi Probe Requests`
+- Disable `Show Passwords`
+- Disable `Enroll In User Experience Program`
+- Disable `Usage And Diagnostics`
+
+### Ad Services
+
+  - Disable `Personalize Ads`
+
+### Web Apps
+- Enable `Web Apps`
+
+### More Security Settings
+
+#### SIM Lock
+- Disable SIM Lock for all SIMs
+
+#### Encryption And Credentials
+- Set `Encrypt Phone` to `Encrypted`
+
+#### Trust Agents
+- Enable `Extend Unlock`
+- Enable `Theft Protection`
+
+#### Android Safe Browsing
+- Enable `Use Live Threat Detection`
+
+#### Theft Protection
+- Disable `Offline Device Lock`
+- Disable `Remote Lock`
