@@ -199,3 +199,20 @@ Enable:
 - DND
 - Roaming
 - Earphones
+
+## Carrier Name
+
+Set it to `None | None`
+
+## Battery Indicator
+
+Set it to `Percentage (Next to icon)`
+
+## Hide Notch
+
+Set it to `Hide without moving status bar`
+
+## Items Shown On The Lock Screen After Swiping Down
+
+- Disable `Notification Shade`
+- Disable `Control Centre`
