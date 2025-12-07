@@ -325,3 +325,9 @@ Enable
 ### Fonts
 - Set it to `Default`
 - Set the size to `100%`
+
+### Always-on display notifications
+- Set it to none
+
+### Fingerprint Effects
+- Set it to `Default`
