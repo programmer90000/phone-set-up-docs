@@ -270,6 +270,9 @@ Disable `Xiaomi Smart Hub`
 - Select the `Ringtone` sound
   - Select `Choose local ringtone`
   - Set it to [ringtone-sound.mp3](./ringtone-sound.mp3)
+- Select the `Alarm` sound
+  - Select `Choose local ringtone`
+  - Set it to [alarm-sound.mp3](./alarm-sound.mp3)
 - Set the `Alarm` sound to `Roar`
 - Disable `Silence mode`
 - Enable `Silence Media in Silent mode`
