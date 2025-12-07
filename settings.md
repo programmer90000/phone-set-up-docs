@@ -184,3 +184,18 @@ Enable notifications for the following apps:
 ### Notification Style
 
 Set it to `Classic`
+
+### Customise Icon Display
+
+Set `Number of notification icons shown` to `3 icons`
+
+Enable:
+- Bluetooth
+- Location Services
+- Privacy notice
+- VPN
+- Hotspot
+- Silent
+- DND
+- Roaming
+- Earphones
