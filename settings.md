@@ -268,3 +268,23 @@ Disable `Xiaomi Smart Hub`
 - Set the `Ringtone` to `Kneeling Push Ups (Sports and fitness)`
 - Set the `Alarm` sound to `Roar`
 - Disable `Silence mode`
+- Enable `Silence Media in Silent mode`
+- Enable `Vibrate for calls`
+- Disable `Vibrate in silent mode`
+- Disable `Haptic Feedback`
+
+### Additional Settings
+
+- Enable `Control Notification Sound`
+- Enable `Adjust media sound in multiple apps`
+- Disable `Multiple audio sources`
+
+#### System Sounds
+
+Enable
+- Dial Pad Tones
+- Play sound when locking device
+- Play sound when taking screenshots
+- Play sound when uninstalling apps
+- Play sound when deleting items
+- Play sound when charger is connected
