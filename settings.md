@@ -261,3 +261,10 @@ Disable `Xiaomi Smart Hub`
 - Disable `Reading Mode`
 - Set the `Refresh Rate` to `Default`
 - Set the `Font Settings` to `Default`
+
+## Sound & Vibration
+
+- Set the `Notification` sound to `Nature`
+- Set the `Ringtone` to `Kneeling Push Ups (Sports and fitness)`
+- Set the `Alarm` sound to `Roar`
+- Disable `Silence mode`
