@@ -181,6 +181,6 @@ Enable notifications for the following apps:
 - Three
 - To Do
 
-### Notification Shade
+### Notification Style
 
 Set it to `Classic`
