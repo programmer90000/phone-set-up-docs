@@ -220,3 +220,35 @@ Set it to `Hide without moving status bar`
 Enable `Device Controls`
 
 Disable `Xiaomi Smart Hub`
+
+## Home Screen
+
+### Home Screen
+- Set it to `With App Drawer`
+- Disable `App Suggestions`
+- Disable `App Categories`
+- Set `Background` to `Auto`
+- Set `App Drawer Background Transparency` to `0%`
+- Set `Scroll Bar` to `A-Z`
+- Disable `Place new apps on the home screen`
+- Disable `Group icons by colour`
+
+### -1 Screen
+
+- Set it to `Google Discover`
+
+### Animation Speed
+
+- Set it to `Balanced`
+- Disable `Double tap an empty spot on the home screen to lock`
+- Disable `Fill cells of uninstalled apps`
+- Disable `Lock Home Screen layout`
+- Set `Don't show text` to `Off`
+- Set `Home Screen Layout` to `5x9`
+- Set `System Navigation` to `Buttons`
+
+#### Arrange Items In Recents
+- Set `Arrange Items In Recents` to `Vertically`
+- Disable `Show memory status`
+- Disable `Blur app previews` for all apps
+
