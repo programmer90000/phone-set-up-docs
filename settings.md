@@ -267,7 +267,9 @@ Disable `Xiaomi Smart Hub`
 - Select the `Notification` sound
   - Select `Choose local ringtone`
   - Set it to [notification-sound.mp3](./notification-sound.mp3)
-- Set the `Ringtone` to `Kneeling Push Ups (Sports and fitness)`
+- Select the `Ringtone` sound
+  - Select `Choose local ringtone`
+  - Set it to [ringtone-sound.mp3](./ringtone-sound.mp3)
 - Set the `Alarm` sound to `Roar`
 - Disable `Silence mode`
 - Enable `Silence Media in Silent mode`
