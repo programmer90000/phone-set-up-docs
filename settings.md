@@ -295,3 +295,22 @@ Enable
 - Play sound when uninstalling apps
 - Play sound when deleting items
 - Play sound when charger is connected
+
+## Personalisation
+
+### Lock screen
+
+- Select `Customise`
+  - Select `Wallpaper`
+    - Select `Local Photos`
+    - Set it to `background-wallpaper.png`
+  - Select `Wallpaper Effects`
+    - Set it to `None`
+  - Select `Font Effects`
+    - Select `Primary`
+      - Set it to the default
+    - Select `Secondary`
+      - Set it to the default
+    - Disable `Depth`
+    - Click the back button
+    - Select `Apply to both`
