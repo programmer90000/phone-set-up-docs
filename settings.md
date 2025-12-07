@@ -180,3 +180,7 @@ Enable notifications for the following apps:
 - StrengthLog
 - Three
 - To Do
+
+### Notification Shade
+
+Set it to `Classic`
