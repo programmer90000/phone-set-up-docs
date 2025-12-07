@@ -314,8 +314,14 @@ Enable
     - Disable `Depth`
     - Click the back button
     - Select `Apply to both`
-  - Select `Always on display`
-    - Disable `Always on display`
-  - Select `Icons`
-    - Set the `Icon Size` to the centre
-    - Set the `Background Colour` to `Default`
+
+### Always on Display
+- Disable `Always on display`
+
+### Icons
+- Set the `Icon Size` to the centre
+- Set the `Background Colour` to `Default`
+
+### Fonts
+- Set it to `Default`
+- Set the size to `100%`
