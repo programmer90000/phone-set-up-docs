@@ -134,3 +134,49 @@ Enable Notification Badges for the following apps:
 - Three
 - Microsoft To Do
 - WhatsApp Business
+
+### Notifications
+
+Enable notifications for the following apps:
+- Gmail
+- Simple Reminder
+- Fossify Calendar
+- GetApps
+- WhatsApp Business
+- Manchester United
+- Alarmy
+- Amazon Shopping
+- App Vault
+- Brave
+- Calendar
+- Chat GPT
+- Clock
+- Contacts
+- File Manager
+- Files By Google
+- Formula 1
+- Gallery
+- GitHub
+- Google
+- Google Play Store
+- Instagram
+- Google Keep Notes
+- Masjid Sunnah Nelson
+- Google Meet
+- Messages
+- Mi Browser
+- Mi Video
+- Monzo
+- Nationwide
+- OHealth
+- OneDrive
+- Phone
+- Photos
+- Pockit
+- Scuderia Ferrari
+- Security
+- Settings
+- Sonicare
+- StrengthLog
+- Three
+- To Do
