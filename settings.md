@@ -264,7 +264,9 @@ Disable `Xiaomi Smart Hub`
 
 ## Sound & Vibration
 
-- Set the `Notification` sound to `Crystal` `(00:01 seconds)`
+- Select the `Notification` sound
+  - Select `Choose local ringtone`
+  - Set it to [notification-sound.mp3](./notification-sound.mp3)
 - Set the `Ringtone` to `Kneeling Push Ups (Sports and fitness)`
 - Set the `Alarm` sound to `Roar`
 - Disable `Silence mode`
