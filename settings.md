@@ -252,3 +252,12 @@ Disable `Xiaomi Smart Hub`
 - Disable `Show memory status`
 - Disable `Blur app previews` for all apps
 
+## Display & Brightness
+
+- Set `Colour Scheme` to `Dark`
+- Disable `Automatic Brightness`
+- Disable `Sunlight Mode`
+- Set the `Colour Scheme` to `Original Colour Pro`
+- Disable `Reading Mode`
+- Set the `Refresh Rate` to `Default`
+- Set the `Font Settings` to `Default`
