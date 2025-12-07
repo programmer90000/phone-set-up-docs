@@ -214,5 +214,9 @@ Set it to `Hide without moving status bar`
 
 ## Items Shown On The Lock Screen After Swiping Down
 
-- Disable `Notification Shade`
-- Disable `Control Centre`
+  - Disable `Notification Shade`
+  - Disable `Control Centre`
+
+Enable `Device Controls`
+
+Disable `Xiaomi Smart Hub`
