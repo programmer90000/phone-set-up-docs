@@ -401,3 +401,40 @@ Enable
 - Enable `5G Battery Saver`
 - Disable `Schedule Power On`
 - Disable `Scheduld Power Off`
+
+## Digital Wellbeing & Parental Control
+
+- Disabled `Show icon in the app list`
+
+## Additional Settings
+
+### Date and time
+
+- Enable `24-hour format`
+- Enable `Set time automatically`
+- Enable `Set time zone automatically`
+- Disable `Use Location`
+- Disable `Dual Clock`
+
+### Languages and input
+
+- Set `Current Keyboard` to `Gboard`
+- Set `Spell Checker` to `Gboard spellchecker`
+- Set `Passwords and accounts` to `Google`
+
+### Gesture Shortcuts
+
+- Set `Launch digital assistant` to `Off`
+- Set `Take a screenshot` to `On`
+- Set `Partial screenshot` to `On`
+- Set `Launch camera` to `Off`
+- Set `Turn on torch` to `Off`
+- Set `Power off` to `Presd and hold the power button for 0.5s`
+
+### Quick Ball
+
+- Disable `Turn on quickball`
+
+### One-Handed mode
+
+- Disable `One-handed mode`
