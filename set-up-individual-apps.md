@@ -57,3 +57,70 @@
 - Disable `Automatically send diagnostic reports`
 - Disable `Automatically send daily usage ping to Brave`
 - Disable `Allow Brave surveys`
+
+### Brave News
+
+- Disable Brave News
+
+### Brave Wallet
+
+- Disable `Default Ethereum wallet`
+- Disable `Default Solana wallet`
+- Set `Automatically lock Brave wallet` to `1 minute`
+- Enable `Display Web3 notifications`
+- Disable `NFT discovery
+
+### Leo AI
+
+- Enable `Show autocomplete suggestions in address bar`
+- Enable `Show in quick search suggestions bar`
+- Enable `Store my conversation history`
+- Set `Default model for new conversations to `Automatic`
+
+### Search Engines
+
+- Set the `Standard tab` to `Brave`
+- Set the `Private tab` to `Brave`
+- Disable the `Quick Search Bar`
+- Enable `Show browser suggestions`
+- Enable `Show search suggestions`
+- Enable `Index other search engines`
+- Disable `Web Discovery Project`
+
+### Homepage
+
+- Enable the homepage
+- Set it to `Brave's homepage`
+
+### Privacy Report
+
+- Disable `Privacy Report`
+- Disable `Privacy report notification`
+
+### Site Settings
+
+- Set `Location` to `Blocked`
+- Set `Camera` to `Blocked`
+- Set `Microphone` to `Blocked`
+- Set `Notifications` to `Ask First`
+- Set `Motion Sensors` to `Blocked`
+- Set `NFC Devices` to `Blocked`
+- Set `USB` to `Ask First`
+- Set `Serial Port` to `Blocked`
+- Set `File Editing` to `Ask First`
+- Set `Clipboard` to `Ask First`
+- Set `Virtual Reality` to `Blocked
+- Set `Agumented Reality` to `Blocked`
+- Set `Third-party cookies` to `Block third-party cookies`
+- Set `JavaScript` to `Allowed`
+- Set `Pop-ups and redirects` to `Blocked`
+- Set `Souns` to `Allowed`
+- Set `Protected Content` to `Ask First`
+- Set `On-device site data` to `Sites can save data on your device`
+- Set `Desktop site` to `Off`
+- Set `Automatic Downloads` to `Ask first`
+- Enable `JavaScript optimisation and security`
+- Disable `Auto-play`
+- Set `Google Sign-In` to `Ask first`
+- Set `Localhost Access` to `Ask first`
+- Enable `Automatically remove permissions`
