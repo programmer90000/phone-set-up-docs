@@ -277,3 +277,20 @@ Set the following event types
 - Enable `Allow creating tasks`
 - Enable `Dim completed tasks`
 - Disable `Automatic backups`
+
+## Google Chrome
+
+- Set the `Search Engine` to `Google`
+- Set the `Address bar` to `Top`
+
+### Privacy and security
+  - Enable `Send a 'Do Not Track' request
+  - Set `Preload pages` to `Standard preloading`
+  - Disable `Lock incognito tabs when you leave Chrome`
+  - Set `Safe Browsing` to `Enhanced Protection`
+  - Enable `Warn you if a password was compromised in a data breach`
+  - Enable `Always use secure connections`
+    - Set `Warns you for insecure public and private sites`
+  - Set `Use Secure DNS` to `Automatic`
+  - Enable `JavaScript optimisation and security`
+  - Disable `Access Payment Methods`
