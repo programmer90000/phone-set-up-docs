@@ -381,3 +381,10 @@ Enable
 #### Theft Protection
 - Disable `Offline Device Lock`
 - Disable `Remote Lock`
+
+## Apps
+
+### Background Autostart
+
+- `Fossify Calendar`
+- `Simple Reminder`
