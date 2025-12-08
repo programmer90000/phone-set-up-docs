@@ -438,3 +438,29 @@ Enable
 ### One-Handed mode
 
 - Disable `One-handed mode`
+
+### Screen Recorder
+
+- Set the `Resolution` to `2712x1220`
+- Set the `Video quality` to `16 Mbps`
+- Set the Orientation` to `Auto`
+- Set the `Sound source` to `System sounds`
+- Set the `Frame Rate` to `24fps`
+- Disable `Lock screen to end`
+- Disable `Show touch gestures`
+- Disable `Show button taps`
+
+### Floating windows
+
+#### Side toolbox
+
+  - Disable `Sidebar`
+  - Disable `In-game shortcuts`
+  - Disable `Video toolbox`
+  - Disable `Call toolbox`
+
+- Disable `Smart suggestions`
+
+### Memory extension
+
+- Set it to `6.0 GB`
