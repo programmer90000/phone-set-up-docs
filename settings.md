@@ -388,3 +388,16 @@ Enable
 
 - `Fossify Calendar`
 - `Simple Reminder`
+
+## Battery
+
+### Battery Protection
+
+- Set `Charging Protection` to `Smart Charging`
+
+### Additional Features
+
+- Set `Clear cache when device is locked` to `Never`
+- Enable `5G Battery Saver`
+- Disable `Schedule Power On`
+- Disable `Scheduld Power Off`
