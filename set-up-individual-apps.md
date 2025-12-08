@@ -203,3 +203,24 @@
 - Disable `Show new tab page ads`
 - Enable `Show top sites`
 - Enable `Show Brave stats`
+
+### Accessibility
+
+- Set the `Default Zoom` to `100%`
+- Enable `Show zoom options in main menu`
+- Enable `Force enable zoom`
+- Disable `Simplified view for web pages`
+- Click `Captions`
+  - Disable `Captions`
+  - Set the `Caption size` to `Medium`
+  - Set the `Caption style` to `White on black`
+
+### Payment Methods
+
+- Disable `Save and fill payment methods`
+
+### Addresses and more
+
+  - Enable `Save and fill addresses`
+
+- Enable `Auto-fill in private tabs`
