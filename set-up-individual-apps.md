@@ -267,3 +267,12 @@ Set the following event types
 - Disable `Start week with current day`
 - Enable `Show week numbers`
 - Enable `Show a grid`
+- Set `Display events from the past` to `1` `day`
+- Enable `Show description or location`
+- Disable `Replace event description with location`
+- Set the `Font size` to `Medium`
+- Set `View to open from the event list widget` to `Daily view`
+- Enable `Dim past events`
+- Disable `Allow changing event time zones`
+- Enable `Allow creating tasks`
+- Enable `Dim completed tasks`
