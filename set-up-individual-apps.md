@@ -124,3 +124,26 @@
 - Set `Google Sign-In` to `Ask first`
 - Set `Localhost Access` to `Ask first`
 - Enable `Automatically remove permissions`
+
+### Downloads
+
+  - Disable `Automatically open when possible`
+  - Enable `Show download progress notification`
+  - Enable `Parallel downloading`
+
+- Disable `Closing all tabs closes Brave`
+- Enable `Open external files in Brave`
+
+### Tabs and tab groups
+
+  - Set `Move to inactive section` to `Never`
+  - Disable `Automatically open tab groups from other devices`
+
+## Media
+
+  - Enable `Widevine DRM`
+  - Enable `Background play`
+  - Enable `Open YouTube links in Brave`
+  - Disable `Block YouTube recommended content`
+  - Disable `Block YouTube distracting elements`
+  - Disable `Block YouTube Shorts`
