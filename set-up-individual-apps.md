@@ -196,3 +196,10 @@
   - Enable `Only open links in the current tab group`
   - Disable `Multiple windows`
   - Enable `Show undo button when tabs are closed`
+
+### New Tab page
+
+- Enable `Show background images`
+- Disable `Show new tab page ads`
+- Enable `Show top sites`
+- Enable `Show Brave stats`
