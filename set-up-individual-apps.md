@@ -243,3 +243,16 @@ Set the following event types
 - `Other` - `#D32F2F`
 - `Regular Event` - `#7A90C8`
 - `Weekly Event` - `#F57C00`
+
+### Manage quick filter event types
+
+  - Enable all event types
+
+- Set `Start week on` to `Sunday`
+- Enable `Use 24-hour time format`
+- Disable `Higlight weekends on some views`
+- Enable `Notifications`
+- Set `Audio stream used by reminders` to `Notification`
+- Disable `Vibrate on reminder notification`
+- Disable `Loop reminders until dismissed`
+- Disable `Always use same snooze time`
