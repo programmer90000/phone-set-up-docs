@@ -224,3 +224,22 @@
   - Enable `Save and fill addresses`
 
 - Enable `Auto-fill in private tabs`
+
+## Fossify Calendar
+
+Click the three dots and select `Settings`
+
+### Customise Colours
+  - Set the `Theme` to `System Default`
+  - Set the `App icon colour` to `#106D1F`
+  - Disable `Apply colour to all Fossify apps`
+
+### Manage event types
+
+Set the following event types
+
+- `Daily event` - `#50A43B`
+- `Every 4 weeks` - `#FBC02D`
+- `Other` - `#D32F2F`
+- `Regular Event` - `#7A90C8`
+- `Weekly Event` - `#F57C00`
