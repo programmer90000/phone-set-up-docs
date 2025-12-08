@@ -139,7 +139,7 @@
   - Set `Move to inactive section` to `Never`
   - Disable `Automatically open tab groups from other devices`
 
-## Media
+### Media
 
   - Enable `Widevine DRM`
   - Enable `Background play`
@@ -147,3 +147,52 @@
   - Disable `Block YouTube recommended content`
   - Disable `Block YouTube distracting elements`
   - Disable `Block YouTube Shorts`
+
+### Appearance
+
+  - Select `Theme`
+    - Set it to `Dark`
+  - Select `Customise Menu`
+    - Enable:
+      - New Tab
+      - New Private Tab
+      - Add tab to group
+      - New Window
+      - Move to other window
+      - Manage Windows
+      - History
+      - Downloads
+      - Bookmarks
+      - Recent Tabs
+      - Leo AI
+      - Brave VPN
+      - Exit
+      - Zoom
+      - Download Page
+      - Print
+      - Track Price
+      - Stop Tracking Price
+      - Find in page
+      - Translate page
+      - Listen to this page
+      - Open with
+      - Open WebApp
+      - Add to home screen
+      - Appearance
+      - Get image description
+
+### Toolbar shortcut
+
+  - Disable the toolbar shortcut
+
+### Address bar
+
+  - Set it to the top
+  - Disable the `bottom navigation bar`
+  - Disable the `Brave Rewards icon`
+  - Disable `Brave ads`
+  - Disable `Night mode`
+  - Enable `Sharing Hub`
+  - Enable `Only open links in the current tab group`
+  - Disable `Multiple windows`
+  - Enable `Show undo button when tabs are closed`
