@@ -256,3 +256,14 @@ Set the following event types
 - Disable `Vibrate on reminder notification`
 - Disable `Loop reminders until dismissed`
 - Disable `Always use same snooze time`
+- Disable `CalDAV sync`
+- Set the `Default start time` to the `Current time`
+- Set the `Default duration` to `0 minutes`
+- Set the `Default Even Type` to the `Last used one`
+- Enable `Use the last event's reminders as the default for new events`
+- Set `Start day at` to `00:00`
+- Enable `Show events spanning across midnight at the top bar`
+- Enable `Allow customising day count
+- Disable `Start week with current day`
+- Enable `Show week numbers`
+- Enable `Show a grid`
