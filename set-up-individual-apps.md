@@ -276,3 +276,4 @@ Set the following event types
 - Disable `Allow changing event time zones`
 - Enable `Allow creating tasks`
 - Enable `Dim completed tasks`
+- Disable `Automatic backups`
