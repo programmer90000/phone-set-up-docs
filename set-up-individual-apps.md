@@ -363,3 +363,10 @@ Go to Settings
 - Enable `Create Word files`
 - Disable `Make recent files available offline`
 - Enable `Transfer files only over Wi-Fi
+
+## Google Drive
+
+Go to Settings
+
+- Set the `theme` to `dark`
+- Enable `Transfer files only over Wi-Fi
