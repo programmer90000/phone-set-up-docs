@@ -350,3 +350,7 @@ Set the following event types
   - JavaScript Optimisation and Security - Enabled
 
 - Enable `Automatically remove permissions`
+
+## DeepSeek
+
+- Sign in
