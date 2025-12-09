@@ -836,3 +836,15 @@ Add the following items:
 - Fold less
 - Undo
 - Redo
+
+### Files and links
+
+- Set the `Default location for new notes` to `Vault folder`
+- Set the `Default location for new attachments` to `Vault folder`
+- Set the `Link format` to `Absolute path in vault`
+- Enable `Automatically update internal links`
+- Disable `Use Wikilinks`
+- Enable `Show all file types`
+- Enable `Confirm file deletion`
+- Set `Deleted files` to move to the `Obsidian trash
+- Disable `URI Callbacks`
