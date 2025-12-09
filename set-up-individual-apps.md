@@ -329,3 +329,24 @@ Set the following event types
 - Disable ` Show zoom options in main menu`
 - Disable `Force enable zoom`
 - Disable `Simplified view for webpages`
+
+## Site Settings
+
+  - Notifications - Ask First
+  - Embedded Content - Ask First
+  - USB - Ask First
+  - Clipboard - Ask First
+  - Your device use - Ask First
+  - Local network access - Ask First
+  - Third-party cookies - Allowed
+  - JavaScript - Allowed
+  - Sound - Allowed
+  - Protected content - Allowed
+  - Third-party sign-in - Allowed
+  - Auto-Verify - Allowed
+  - On-device site data - Enabled
+  - Background Sync - Allowed
+  - Automatic downloads - Ask First
+  - JavaScript Optimisation and Security - Enabled
+
+- Enable `Automatically remove permissions`
