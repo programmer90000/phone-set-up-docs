@@ -783,3 +783,14 @@ Select `Personalize`
 - Set the `Number of transactions` to `3`
 ### Pots
 - Enable `Show as list in home`
+
+## Nationwide
+
+- Set it to `Show Balances`
+- Set it to `Show account headers`
+- Set it to `Slim tiles`
+- Click `Settings`
+  - Set the `Theme` to `Dark`
+  - Remove the `Personal Greeting`
+  - Disable `Large account tiles`
+  - Disable `Remove account header types`
