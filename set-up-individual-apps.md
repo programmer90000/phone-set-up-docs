@@ -681,3 +681,4 @@ Click Settings
   - Disable `Optional Diagnostic Data`
   - Enable `Experiences that analyze content`
   - Enable `Experiences that download content`
+- Disable `Remote debugging`
