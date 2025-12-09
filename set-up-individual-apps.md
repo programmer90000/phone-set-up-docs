@@ -526,3 +526,19 @@ Sign in using my Gmail account
   - Share without location by default
   - Share without metadata by default
 - Enable `Convert HEIF before sending`
+
+## GitHub
+
+### Notifications
+
+  - Disable `Working hours`
+  - Enable notifications for:
+    - Direct Mentions
+    - Review Requested
+    - Assigned
+    - Deployment Review
+    - Pull Request Review
+    - Workflow Runs
+  - Set `Left Swipe` to `Unsubscribe`
+  - Set `Right Swipe` to `Unsubscribe`
+- Set the `Theme` to `Dark`
