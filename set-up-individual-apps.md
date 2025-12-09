@@ -764,3 +764,22 @@ Click Settings
 - Disable `Use simple characters`
 - Disable `Get SMS delivery reports`
 - Disable `Show iPhone reactions as emojis`
+
+## Monzo
+
+Select `Personalize`
+
+- Set the `App Icon` to `Default`
+### Theme
+- Set the `Theme` to `Dark`
+- Enable `Increase Contrast`
+### Spotlight
+- Enable `Shown in Home`
+- Set:
+  - Personal Balance
+  - Spending
+  - Balance
+### Activity
+- Set the `Number of transactions` to `3`
+### Pots
+- Enable `Show as list in home`
