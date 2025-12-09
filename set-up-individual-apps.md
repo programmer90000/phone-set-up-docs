@@ -503,3 +503,14 @@ Go to Settings
 - Disable `Pause search history`
 - Enable `Smart Search`
 - Enable `Show hidden files`
+
+## Flipboard
+
+Sign in using my Gmail account
+
+- Disable `Push notifications`
+- Set `Widget update frequency` to `Never`
+- Set `Browsing mode` to `Flip`
+- Set `Theme` to `Dark`
+- Disable `Full screen` mode
+- Set `Reduce data usage` to `Use WiFi only`
