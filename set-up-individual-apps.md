@@ -667,3 +667,17 @@ Click Settings
 - Set `Theme` to `Dark`
 - Disable `Create text notes by default`
 - Disable `Sharing`
+
+## Microsoft 365 CoPilot
+
+- Set the `Theme` to `Dark`
+- Disable `Push Notifications`
+### Files and storage
+  - Disable `Download most recent and recommended files`
+  - Disable `Automatic download on mobile data`
+  - Enable `Open in mobile view`
+  - Set the `Default storage location` to `OneDrive - Personal`
+### Privacy and permissions
+- Disable `Optional Diagnostic Data`
+- Enable `Experiences that analyze content`
+- Enable `Experiences that download content`
