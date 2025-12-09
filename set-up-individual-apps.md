@@ -491,3 +491,15 @@ Go to Settings
 
 - Enable `Background audio playback`
 - Set `Site Settings` to `Show mobile site as default`
+
+## File Manager
+
+- Disable `Don't show Gallery items and screenshots among recent files`
+- Enable `Show hidden files`
+- Enable `Withdrawal of consent`
+
+## Files By Google
+
+- Disable `Pause search history`
+- Enable `Smart Search`
+- Enable `Show hidden files`
