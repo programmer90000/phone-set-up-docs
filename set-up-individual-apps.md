@@ -860,3 +860,27 @@ Add the following items:
 - Set the `Font size` to `16`
 - Disable the `Quick font size adjustment`
 - Enable `Show title inline`
+
+## Microsoft OneDrive
+
+### Privacy and permissions
+
+ - Disable `Optional diagnostic data`
+ - Disable `People selection`
+ - Disable `Use AI tags in photo search`
+
+### Notifications
+
+  - Enable `My OneDrive account needs attention`
+  - Disable `PremiumPositioning`
+  - Disable `On this day`
+  - Disable `Memories from the last month`
+  - Disable `Someone shares with me`
+  - Disable `People edit my shared files`
+  - Enable `Clean up space on your device`
+
+- Set the `Theme` to `Dark`
+- Set `Sync files offline` to `Over Wi-Fi only`
+- Set `Gallery Preferences` to `All Photos`
+- Enable `Show file extensions`
+- Disable `Shake to send feedback`
