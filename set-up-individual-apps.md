@@ -682,3 +682,29 @@ Click Settings
   - Enable `Experiences that analyze content`
   - Enable `Experiences that download content`
 - Disable `Remote debugging`
+
+## Manchester United
+
+### Notifications
+
+#### United Now Alerts
+
+- Disable all alerts
+
+#### Match Alerts
+
+- Disable `Predictions`
+- Disable `Line-ups`
+- Enable `Kick-off`
+- Enable `Goals`
+- Disable `Half-time`
+- Enable `Full-time`
+- Disable `Red Card`
+- Disable `Subsitutes`
+- Disable `Penalties`
+- Disable `Live Stats`
+- Disable `Match Reaction`
+
+### General
+
+- Disable `Auto play video in United now`
