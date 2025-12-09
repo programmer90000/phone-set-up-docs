@@ -708,3 +708,7 @@ Click Settings
 ### General
 
 - Disable `Auto play video in United now`
+
+## Masjid Sunnah Nelson
+
+- Disable `Prayer Reminders`
