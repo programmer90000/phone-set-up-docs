@@ -645,3 +645,7 @@ Click Settings
 - Set `Days of email to sync`
 - Disable `Download attachments`
 - Set `Images` to `Ask before displaying external images)
+
+## Instagram
+
+- Login with my main Outlook account
