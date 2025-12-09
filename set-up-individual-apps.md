@@ -410,3 +410,52 @@ Go to Settings
 - Enable `Search History`
 - Enable `Show me search and site suggestions using my typed characters`
 - Enable `Show me suggestions from history, favourites and other data on this device using my typed characters`
+
+### Appearance and layout
+
+- Set the `address bar` to the `top`
+- Disable `Show the immersive reader button when it is better to view the page in reader mode`
+- Set the `app theme appearance` to `dark`
+- Disable `Dark theme for all web pages`
+- Enable `Show wallpaper`
+- Enable `Edit wallpaper`
+- Enable `Show image of the day title`
+- Click `Edit menu`. Add the following items:
+  - Home
+  - Collections
+  - New InPrivate tab
+  - Drop
+  - View Desktop site
+  - Dark mode
+  - Extensions
+  - Share
+  - Translate
+  - Add to phone
+  - Download this page
+  - Find on page
+
+### New Tab page
+
+- Disable `Weather`
+- Set `Home Page` to `New tab page`
+- Set `On start-up` to `Open a new tab after a period of inactivity`
+
+### Tabs
+
+- Set `Move to inactive session` to `Never`
+- Disable `Let Microsoft Edge help keep your tabs organised`
+- Disable `Automatically open tab groups from other devices`
+
+### Accessibility
+
+- Set the `Default Zoom` to `100%`
+- Disable `Zoom on all websites`
+
+### Languages
+
+- Enable `Microsoft Translator`
+
+### Site Settings
+
+- Enable `Block Ads`
+- Disable `Block opening external apps`
