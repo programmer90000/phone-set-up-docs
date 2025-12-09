@@ -649,3 +649,12 @@ Click Settings
 ## Instagram
 
 - Login with my main Outlook account
+
+## iQuran
+
+Click Settings
+
+- Disable `Arabic chapter titles`
+- Disable `Al-Kahf reminders`
+- Enable `Colour-coded Tajweed`
+- Enable `Colour Legend`
