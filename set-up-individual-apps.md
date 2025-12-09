@@ -459,3 +459,32 @@ Go to Settings
 
 - Enable `Block Ads`
 - Disable `Block opening external apps`
+
+#### Site Permissions
+
+- Set `Location` to `Blocked`
+- Set `Camera` to `Blocked`
+- Set `Microphone` to `Blocked`
+- Set `Notifications` to `Ask First`
+- Set `Motion Sensors` to `Blocked`
+- Set `NFC Devices` to `Blocked`
+- Set `USB` to `Ask First`
+- Set `Serial Port` to `Blocked`
+- Set `File Editing` to `Ask First`
+- Set `Clipboard` to `Ask First`
+- Set `Virtual Reality` to `Blocked
+- Set `Agumented Reality` to `Blocked`
+- Set `Your device use` to `Ask first`
+- Set `Third-party cookies` to `Block third-party cookies`
+- Set `JavaScript` to `Allowed`
+- Set `Pop-ups and redirects` to `Blocked`
+- Set `Sound` to `Allowed`
+- Set `Intrusive ads` to `Blocked on some sites`
+- Set `Protected Content` to `Ask first`
+- Set `Third-party sign-in` to `Allowed`
+- Set `Auto-verify` to `Enabled`
+- Set `On-device site data` to `Enabled`
+- Set `Desktop sites` to `Disabled`
+- Set `Background sync` to `Enabled`
+- Set `Automatic Downloads` to `Adk First`
+- Set `JavaScript optimisation and security` to `Enabled`
