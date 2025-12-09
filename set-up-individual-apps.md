@@ -488,3 +488,6 @@ Go to Settings
   - Set `Background sync` to `Enabled`
   - Set `Automatic Downloads` to `Adk First`
   - Set `JavaScript optimisation and security` to `Enabled`
+
+- Enable `Background audio playback`
+- Set `Site Settings` to `Show mobile site as default`
