@@ -542,3 +542,10 @@ Sign in using my Gmail account
   - Set `Left Swipe` to `Unsubscribe`
   - Set `Right Swipe` to `Unsubscribe`
 - Set the `Theme` to `Dark`
+
+ ### Code Options
+   - Enable `Scrollbale File Paths`
+   - Enable `Show line numbers`
+   - Enable `Always use dark theme`
+   - Disable `Override system font size`
+   - Enable `Wrap lines`
