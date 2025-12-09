@@ -658,3 +658,12 @@ Click Settings
 - Disable `Al-Kahf reminders`
 - Enable `Colour-coded Tajweed`
 - Enable `Colour Legend`
+
+## Google Keep Notes
+
+- Disable `Add new items to bottom`
+- Disable `Move ticked items to bottom`
+- Enable `Display rich link previews`
+- Set `Theme` to `Dark`
+- Disable `Create text notes by default`
+- Disable `Sharing`
