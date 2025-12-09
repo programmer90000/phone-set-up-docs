@@ -294,3 +294,31 @@ Set the following event types
   - Set `Use Secure DNS` to `Automatic`
   - Enable `JavaScript optimisation and security`
   - Disable `Access Payment Methods`
+
+### Payment Methods
+
+- Enable `Save and fill payment methods`
+- Enable `Verify that it's you to autofill payment methods`
+- Disable `Save security codes`
+- Enable `Card Benefits`
+
+### Addresses and more
+
+- Enable `Save and fill addresses`
+
+### Tab and tab groups
+
+- Set `Move to inactive section` to `Never`
+- Disable `Automatically open tab groups from other devices`
+
+### Homepage
+
+- Set the homepage to `Chrome's homepage`
+
+### Toolbar Shortcut
+
+- Disable the toolbar shortcut
+
+### Theme
+
+- Set the theme to dark
