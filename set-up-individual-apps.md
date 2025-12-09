@@ -322,3 +322,10 @@ Set the following event types
 ### Theme
 
 - Set the theme to dark
+
+## Accessibility
+
+- Set the `Default zoom` to 100%`
+- Disable ` Show zoom options in main menu`
+- Disable `Force enable zoom`
+- Disable `Simplified view for webpages`
