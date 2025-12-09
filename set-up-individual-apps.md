@@ -514,3 +514,15 @@ Sign in using my Gmail account
 - Set `Theme` to `Dark`
 - Disable `Full screen` mode
 - Set `Reduce data usage` to `Use WiFi only`
+
+## Gallery
+
+- Disable `Select best photo`
+- Enable `On this day`
+- Enable `Recognise text on images`
+- Disable `Pro HDR display`
+
+### Secure Sharing
+  - Share without location by default
+  - Share without metadata by default
+- Enable `Convert HEIF before sending`
