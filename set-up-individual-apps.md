@@ -354,3 +354,12 @@ Set the following event types
 ## DeepSeek
 
 - Sign in
+
+## Google Docs
+
+Go to Settings
+
+- Set the `theme` to `dark`
+- Enable `Create Word files`
+- Disable `Make recent files available offline`
+- Enable `Transfer files only over Wi-Fi
