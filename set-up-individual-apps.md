@@ -622,3 +622,26 @@ Click Settings
 - Set `Days of email to sync`
 - Disable `Download attachments`
 - Set `Images` to `Ask before displaying external images)
+
+### Quran Gmail account
+
+Sign in
+
+Click Settings
+
+- Set the `Inbox type` to `Default Inbox`
+- Set the `Inbox Categories` to `Default Inbox` only
+- Set `Notifications` to `All`
+- Set `Inbox Notifications` to `Notify Once`
+- Disable `Chat`
+- Set the `Default Reply Action` to `Reply`
+- Don't set a `mobile signature`
+- Disable `Conversation View`
+- Disable `Smart Features`
+- Disable `Out of office auto reply`
+- Disable `Show the Meet tab for video calling`
+- Enable `Call ringing`
+- Enable `Sync Gmail`
+- Set `Days of email to sync`
+- Disable `Download attachments`
+- Set `Images` to `Ask before displaying external images)
