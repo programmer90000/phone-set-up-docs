@@ -848,3 +848,15 @@ Add the following items:
 - Enable `Confirm file deletion`
 - Set `Deleted files` to move to the `Obsidian trash
 - Disable `URI Callbacks`
+
+### Appearance
+
+- Set the `Base colour scheme` to `Dark`
+- Set the `Accent colour` to `White`
+- Set the `Theme` to `Default`
+- Set the `Font` to `Default`
+- Set the `Text font` to `Default`
+- Set the `Monospace font` to `Default`
+- Set the `Font size` to `16`
+- Disable the `Quick font size adjustment`
+- Enable `Show title inline`
