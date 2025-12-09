@@ -549,3 +549,5 @@ Sign in using my Gmail account
    - Enable `Always use dark theme`
    - Disable `Override system font size`
    - Enable `Wrap lines`
+  
+- Disable `App Lock`
