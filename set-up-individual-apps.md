@@ -822,3 +822,17 @@ Select `Personalize`
 - Disable `Indent using tabs`
 - Disable `Convert pasted HTML to markdown`
 - Disable `Vim key bindings`
+
+### Toolbar
+
+Add the following items:
+- Cut
+- Copy
+- Paste
+- Toggle Bold
+- Toggle Italic
+- Toggle Strikethrough
+- Fold more
+- Fold less
+- Undo
+- Redo
