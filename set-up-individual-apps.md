@@ -370,3 +370,43 @@ Go to Settings
 
 - Set the `theme` to `dark`
 - Enable `Transfer files only over Wi-Fi
+
+## Microsoft Edge
+
+Sign in
+
+Go to Settings
+
+### Payment Methods
+
+- Enable `Save and fill payment methods`
+- Enable `Verify it's you to autofill methods`
+- Disable `Save security codes`
+- Enable `Card benefits`
+
+### Personal Info
+
+- Enable `Save and fill personal info`
+- Add all 3 email addresses
+
+### Privacy and security
+
+- Disable `Diagnostic data`
+- Disable `Lock InPrivate tabs when you leave Microsoft Edge`
+- Enable `Microsoft Defender SmartScreen`
+- Enable `Send "Do Not Track" Requests`
+- Enable `Tracking prevention`
+- Enable `Website Typo Protection`
+
+### Microsoft Services
+
+- Enable `Copilot`
+- Enable `Personalise for your browsing`
+- Enable `Improve quality of shortcuts on homepage`
+
+### Search
+
+- Set the `Default Search Engine` to `Bing`
+- Enable `Search History`
+- Enable `Show me search and site suggestions using my typed characters`
+- Enable `Show me suggestions from history, favourites and other data on this device using my typed characters`
