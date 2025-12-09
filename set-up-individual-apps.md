@@ -577,7 +577,7 @@ Click Settings
 - Disable `Download attachments`
 - Set `Images` to `Ask before displaying external images)
 
-### Quran Outlook account
+### Programming Outlook account
 
 Sign in
 
