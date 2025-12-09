@@ -678,6 +678,6 @@ Click Settings
   - Enable `Open in mobile view`
   - Set the `Default storage location` to `OneDrive - Personal`
 ### Privacy and permissions
-- Disable `Optional Diagnostic Data`
-- Enable `Experiences that analyze content`
-- Enable `Experiences that download content`
+  - Disable `Optional Diagnostic Data`
+  - Enable `Experiences that analyze content`
+  - Enable `Experiences that download content`
