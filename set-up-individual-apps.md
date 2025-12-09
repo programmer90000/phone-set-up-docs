@@ -794,3 +794,31 @@ Select `Personalize`
   - Remove the `Personal Greeting`
   - Disable `Large account tiles`
   - Disable `Remove account header types`
+
+## Obsidian
+
+### General
+
+- Disable `Notify if startup takes longer than expected`
+
+### Editor
+
+- Disable `Always focus on new tabs`
+- Set the `Default view for new tabs` to `Reading view`
+- Set the `Default editing mode` to `Source mode`
+- Enable `Show editing mode in status bar`
+- Enable `Readable line length`
+- Disable `Strict line breaks`
+- Set `Properties in document` to `Source`
+- Enable `Fold heading`
+- Enable `Fold indent`
+- Enable `Show Line Numbers`
+- Enable `Show indentation guides`
+- Disable `Right-to-left`
+- Enable `Spell check`
+- Disable `Auto-pair brackets`
+- Disable `Auto-pair Markdown syntax`
+- Disable `Smart Lists`
+- Disable `Indent using tabs`
+- Disable `Convert pasted HTML to markdown`
+- Disable `Vim key bindings`
