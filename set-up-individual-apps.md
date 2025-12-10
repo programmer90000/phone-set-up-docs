@@ -1082,3 +1082,11 @@ Enable the following:
 - Set the `Vibrate` for `Status` to `Default`
 - Disable `Use high priority notifications`
 - Disable notifications for `Reactions`
+
+### Storage and data
+
+- Enable `Use less data for calls`
+- Set the `Media upload quality` to `Standard Quality`
+- Set the `Media auto-download` `When using mobile data` to `No media`
+- Set the `Media auto-download` `When connected on Wi-Fi` to `All media`
+- Set the `Media auto-download` `When roaming` to `No media`
