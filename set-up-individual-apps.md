@@ -884,3 +884,25 @@ Add the following items:
 - Set `Gallery Preferences` to `All Photos`
 - Enable `Show file extensions`
 - Disable `Shake to send feedback`
+
+## Google Photos
+
+### Notifications
+
+- Disable all notifications
+
+### Preferences
+
+#### Photos View
+
+  - Disable `Stack similar photos,`
+  - Enable `Show content from other apps`
+  - Disable `Only show backed-up content
+  - Disable `Hide clutter from other apps`
+
+- Disable `Group similar faces`
+
+#### Photo Grid Playback
+
+- Enable `Photos`
+- Enable `Motion Photos`
