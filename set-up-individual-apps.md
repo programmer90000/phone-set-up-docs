@@ -1027,3 +1027,35 @@ Enable the following:
 - Disable `Don't lock screen during active workout`
 - Enable `Show active workouts as a notification on the lock screen`
 - Disable `Share my data anonymously with scientific studies`
+
+## WhatsApp
+
+### Account
+
+- Disable `Security Notifications`
+- Disable `PassKeys`
+- Disable `Email Address`
+- Disable `Two-step verification`
+- Disable `Business Platform`
+
+### Privacy
+
+- Set `Last seen and online` to `Everyone`
+- Set `Profile Photo` to `Everyone`
+- Set `About` to `Everyone`
+- Set `Status` to `My Contacts`
+- Enable `Read receipts`
+- Disable `Default message timer`
+- Set `Groups` to `Everyone`
+- Set `Avatar stickers` to `My contacts`
+- Disable `Live Location`
+- Disable `Silence unknown callers`
+- Disable `App Lock`
+- Disable `Camera Effects`
+- Disable `Block unknown account messages`
+- Disable `Protect IP address in calls`
+- Enable `Link Previews`
+
+### Chats
+
+- Set the `Theme` to `Dark
