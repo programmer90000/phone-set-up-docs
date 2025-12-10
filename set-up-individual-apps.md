@@ -1100,3 +1100,13 @@ Enable the following:
 - Enable `Emoji`
 - Enable `Stickers`
 - Enable `Gifs`
+
+## YouTube
+
+### General
+
+- Set the `Appearance` to `Dark theme`
+- Set `Playback in feeds` to `Wi-Fi only`
+- Disable `Restricted mode`
+- Disable `stats for nerds`
+- Disable `Earn badges`
