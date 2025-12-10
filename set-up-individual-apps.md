@@ -906,3 +906,21 @@ Add the following items:
 
 - Enable `Photos`
 - Enable `Motion Photos`
+
+## Google Play Store
+
+### General
+
+#### Notifications
+
+- Enable `Account` notifications
+- Enable notifications for `Updates available`
+- Enable notifications for `Upates completed`
+- Disable `Pre-registration`
+- Disable `Deals and promotions`
+- Disable `Your community`
+- Disable `Community posts`
+
+- Set the `Theme` to `Dark`
+- Disable `Google Play Instant` `Upgrade web links`
+- Disable `Google Play Store Feedback`
