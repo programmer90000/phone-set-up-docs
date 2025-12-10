@@ -1059,3 +1059,14 @@ Enable the following:
 ### Chats
 
 - Set the `Theme` to `Dark
+- Set the `Chat colour` to `Light Green`
+- Set the `Chat Wallpaper` to `Black`
+- Disable `Enter is send`
+- Enable `Media Visibility`
+- Set the `Font Size` to `Small`
+- Enable `Voice message transcripts`
+- Disable `Keep chats archived`
+
+### Notifications
+
+- Disable `Conversation tones`
