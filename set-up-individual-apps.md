@@ -1005,3 +1005,12 @@ Enable the following:
 
 - Enable `Recieve recommendations`
 - Enable `Load using only Wi-Fi`
+
+## Simple Reminder
+
+- Set the `Default snooze duration` to `15 minutes`
+- Set the `Interval of `remind until confirmed` to `5 minutes`
+- Set the theme to dark orange
+- Do not disable `Battery optimisation`
+- Disable `Use AlarmClock for reminders`
+- Disable `Swipe-to-delete`
