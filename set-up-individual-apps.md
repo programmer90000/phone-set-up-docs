@@ -1070,3 +1070,15 @@ Enable the following:
 ### Notifications
 
 - Disable `Conversation tones`
+- Disable `Reminders`
+- Set the `Notification tone` to `Default`
+- Set `Vibrate` to `Default`
+- Set the `Light` to `White`
+- Disable `Use high priority notifications`
+- Disable `Reaction notifications`
+- Set the `Ringtone` for `Calls` to `Default`
+- Set the `Vibrate` for `Calls` to `Default`
+- Set the `Notification tone` for `Status` to `Default`
+- Set the `Vibrate` for `Status` to `Default`
+- Disable `Use high priority notifications`
+- Disable notifications for `Reactions`
