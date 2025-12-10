@@ -1153,3 +1153,14 @@ Enable the following:
 - Enable `Muted playback in feeds over Wi-Fi only`
 - Disable `Select quality for every video`
 - Set `Mobile data usage reminder` to `1 GB`
+
+### Downloads
+
+- Set `Download quality` to `Ask each time`
+- Enable `Download over Wi-Fi only`
+
+### Live Chat
+
+- Disable `Hold for review`
+- Disable `Appear on Top Fans leaderboard`
+- Enable `Turn off Super Chat and Super Stickers celebrations`
