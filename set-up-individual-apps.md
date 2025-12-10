@@ -945,3 +945,63 @@ Add the following items:
 ### Share extension
 
   - Disable `Save automatically`
+
+## Security
+
+### Common features shortcut
+
+Enable the following:
+- Cleaner
+- Battery Optimisation
+- Security Scan
+
+### Cleaner
+
+- Set no exceptions
+- Set no reminders
+- Enable `Scan app memory`
+- Enable `Show home screen shortcut`
+- Enable `Recieve recommendations`
+- Enable `Load using only Wi-Fi`
+
+### Boost Speed
+
+- Do not lock any apps
+- Set `Clear cache when device is locked`
+
+### Data Usage
+
+- Disable `Data Usage`
+- Disable `Show network speed`
+
+### Blocklist
+
+#### Call blocklist
+
+  - Disable `Block all calls`
+  - Disable `Block calls from strangers`
+  - Disable `Block forwarded calls`
+  - Disable `Block calls from hidden numbers`
+
+- Set `Blocklist notifications` to `All numbers`
+
+###  Battery Optimisation
+
+- Set `Clear cache when device is locked` to `Never`
+- Enable `5G battery saver`
+
+#### Schedule power on/off
+
+- Disable `Schedule power on`
+- Disable `Schedule power off`
+
+### Security Scan
+
+  - Disable `Online definitions`
+  - Enable `Scan before installing`
+  - Enable `Update definitions automatically`
+  - Enable `Root`
+  - Enable `System updates`
+
+- Enable `Recieve recommendations`
+- Enable `Load using only Wi-Fi`
