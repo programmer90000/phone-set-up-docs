@@ -924,3 +924,15 @@ Add the following items:
 - Set the `Theme` to `Dark`
 - Disable `Google Play Instant` `Upgrade web links`
 - Disable `Google Play Store Feedback`
+- Disable `Use Device Location`
+- Disable `Automatically archive apps`
+
+### Network Preferences
+
+- Set `App download preferences` to `Over any network`
+- Set `Auto-update apps` to `Over Wi-Fi only`
+- Set `Auto-play videos` to `Don't auto-play videos`
+
+### Family
+
+- Disable `Parental Controls`
