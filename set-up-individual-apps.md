@@ -1164,3 +1164,8 @@ Enable the following:
 - Disable `Hold for review`
 - Disable `Appear on Top Fans leaderboard`
 - Enable `Turn off Super Chat and Super Stickers celebrations`
+
+### Accessibility
+
+- Disable `Accessibility player`
+- Enable `Rotate Shorts`
