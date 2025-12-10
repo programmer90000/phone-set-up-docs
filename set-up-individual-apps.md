@@ -936,3 +936,12 @@ Add the following items:
 ### Family
 
 - Disable `Parental Controls`
+
+## Raindrop
+
+- Set `Open in browser` to `In app`
+- Set `Theme` to `Midnight`
+
+### Share extension
+
+  - Disable `Save automatically`
