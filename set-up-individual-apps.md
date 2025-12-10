@@ -1090,3 +1090,13 @@ Enable the following:
 - Set the `Media auto-download` `When using mobile data` to `No media`
 - Set the `Media auto-download` `When connected on Wi-Fi` to `All media`
 - Set the `Media auto-download` `When roaming` to `No media`
+
+### Accessibility
+
+- Enable `Increase contrast`
+
+#### Animation
+
+- Enable `Emoji`
+- Enable `Stickers`
+- Enable `Gifs`
