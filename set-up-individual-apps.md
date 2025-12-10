@@ -1110,3 +1110,46 @@ Enable the following:
 - Disable `Restricted mode`
 - Disable `stats for nerds`
 - Disable `Earn badges`
+
+### Time Management
+
+- Disable `Remind me when it's bedtime`
+- Disable `Remind me to take a break`
+- Disable `Shorts feed limit`
+
+### Notificationa
+
+- Disable all notifications
+
+### Privacy
+
+- Disable `Allow users to mention me`
+
+### Video quality preferences
+
+- Set `Video quality on mobile networks` to `Data Saver`
+- Set `Video quality on Wi-Fi` to `Auto`
+
+### Playback
+
+- Disable `Auto-play next video`
+- Set `Double-tap to seek` to `5 seconds`
+- Disable `Zoom to fill screen`
+
+### Captions
+
+- Disable `Show captions`
+- Set `Caption size` to `Small`
+- Set `Caption style` to `Yellow on black`
+
+### Data Saving
+
+- Disable `Data-saving mode`
+- Enable `Reduce video quality`
+- Disable `Reduce download quality`
+- Disable `Reduce smart downloada quality`
+- Enable `Only download over Wi-Fi and unrestricted mobile data`
+- Disable `Upload over Wi-Fi only`
+- Enable `Muted playback in feeds over Wi-Fi only`
+- Disable `Select quality for every video`
+- Set `Mobile data usage reminder` to `1 GB`
