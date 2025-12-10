@@ -1014,3 +1014,16 @@ Enable the following:
 - Do not disable `Battery optimisation`
 - Disable `Use AlarmClock for reminders`
 - Disable `Swipe-to-delete`
+
+## StrengthLog
+
+- Sign in using my Gmail account
+- Set the `Apperance` to `Dark mode`
+- Disable `Set timer`
+- Set the `Units` to `Metric`
+- Set the `Round off` to `0.5 KG`
+- Disable `Plate calculator`
+- Disable `Show calorie calculator`
+- Disable `Don't lock screen during active workout`
+- Enable `Show active workouts as a notification on the lock screen`
+- Disable `Share my data anonymously with scientific studies`
