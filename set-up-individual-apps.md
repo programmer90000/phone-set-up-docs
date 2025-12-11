@@ -202,3 +202,12 @@
 - Set `Background sync` to `Allowed`
 - Set `Automatic downloads` to `Ask first`
 - Enable `JavaScript opimisation and security`
+
+## DeepSeek
+
+### Data Controls
+
+  - Disable `Improve the model for everyone`
+
+- Set the `Apperance` to `Light`
+- Set the `Font Size` to the smallest value
