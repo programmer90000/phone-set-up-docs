@@ -564,3 +564,7 @@ Disable `Parental controls`
 - Disable `Lock screen to end`
 - Enable `Show touch gestures`
 - Enable `Show button taps`
+
+## Temp Number
+
+- Set the `Theme` to `Classic Light`
