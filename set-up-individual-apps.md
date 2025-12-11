@@ -413,3 +413,12 @@ Enable `Display rich link previews`
 Set the `Theme` to `Light`
 Disable `Create text notes by default`
 Enable `Sharing`
+
+## Google News
+
+- Disable `Daily briefing emails`
+- Disable `Product updates emails`
+- Disable `Dark theme`
+- Disable `Mini cards`
+- Set `Data Saver mode` to `Automatic`
+- Set `Temperature units` to `Celsius`
