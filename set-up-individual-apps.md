@@ -509,3 +509,38 @@ Enable `Sharing`
 ### Sharing
 
 - Disable `Hide video from motion photos`
+
+## Google Play Store
+
+### General
+
+#### Account and device prefrences
+
+- Disable `Emails from Google Play`
+
+#### Notifications
+
+  - Enable `Account`
+  - Enable `Updates avaliable`
+  - Disable `Updates completed`
+  - Disable `Pre-registration`
+  - Disable `Deals and promotions`
+  - Disable `Your community`
+  - Disable `Community posts`
+
+- Set the `Theme` to `Light`
+- Disable `Google Play Instant`
+- Disable `Google Play Store feedback`
+- Disable `Use device location`
+- Disable `Automatically archive apps`
+- Disable `App install optimisation`
+
+### Network prefrences
+
+- Set `App download prefrence` to `Over any network`
+- Set `Auto-update apps` to `Update over Wi-Fi only`
+- Set `Auto-play videos` to `Don't auto-play videos`
+
+### Family
+
+Disable `Parental controls`
