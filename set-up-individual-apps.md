@@ -553,3 +553,14 @@ Disable `Parental controls`
 - Enable `Name recordings manually`
 - Set the `Recording format` to `MP3`
 - Set the `Recording quality` to `Standard`
+
+## Screen Recorder
+
+- Set the `Resolution` to `2400*1080`
+- Set the `Video quality` to `16 Mbps`
+- Set the `Orientation` to `Auto`
+- Set the `Sound source` to `System sounds`
+- Disable `Fixed frame rate`
+- Disable `Lock screen to end`
+- Enable `Show touch gestures`
+- Enable `Show button taps`
