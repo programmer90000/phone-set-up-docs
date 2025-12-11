@@ -568,3 +568,25 @@ Disable `Parental controls`
 ## Temp Number
 
 - Set the `Theme` to `Classic Light`
+
+## Microsoft To Do
+
+- Enable `Add new tasks on top`
+- Enable `Move starred taks to top`
+- Enable `Play completion sound`
+- Enable `Confirm before deleting`
+- Enable `Show Due Today taks in My Day`
+- Enable `Recognise dates and times in task titles`
+- Disable `Remove dates and times from taks titles once recognised`
+- Set `Theme` to `Light Theme`
+- Set `Start of the week` to `Sunday`
+- Enable `Important` smart list
+- Enable `Planned` smart list
+- Enable `Completed` smart list
+- Disable `Auto-hide empty smart list`
+- Disable `Planner`
+- Disable `Flagged email`
+- Disable `Quick add notification`
+- Disable `Plan your day reminders`
+- Disable `Shared list activity` reminders
+- Disable `Due Todat notifications`
