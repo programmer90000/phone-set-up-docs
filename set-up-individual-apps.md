@@ -249,3 +249,19 @@
   - Enable `On-device web suggestions`
 
 - Set `Auto-play video previews` to `Never`
+
+## Hisnul Muslim
+
+- Disable `Dark Mode`
+- Disable `Night Mode`
+- Set the `Arabic Font Size` to `20`
+- Set the `Arabic Font Style` to `Standard`
+- Disable `Transliteration`
+- Enable `Translation`
+
+## iQuran Lite
+
+- Disbale `Arabic chapter titles`
+- Disable `Al-Kahf reminders`
+- Enable `Colored Tajweed`
+- Enable `Color legened`
