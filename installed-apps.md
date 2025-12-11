@@ -1,0 +1,48 @@
+# Installed Apps
+
+- Alarmy
+- Google Assistant
+- Calculator
+- Google Calendar
+- Camera
+- ChatGPT
+- Google Chrome
+- Clock
+- ClubRight
+- Compass
+- Contacts
+- DeepSeek
+- Downloads
+- Google Drive
+- File Manager
+- Gallery
+- Google Gemini
+- Gmail
+- Google
+- Google One
+- Hisnul Muslim
+- iQuran Lite
+- Google Keep Notes
+- Google Maps
+- Masjid Sunnah Nelson
+- Messages
+- Mi Browser
+- Mi Store
+- Mi Video
+- Google News
+- Notepad
+- Phone
+- Google Photos
+- Google Play Store
+- Qibla Finder
+- Recorder
+- Scanner
+- Screen Recorder
+- Security
+- Settings
+- StrengthLog
+- Temp Number - Recieve SMS
+- Three
+- Microsoft ToDo
+- WhatsApp Business
+- YouTube
