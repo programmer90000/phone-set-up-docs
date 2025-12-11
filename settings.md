@@ -348,3 +348,151 @@ Enable notifications for the following apps:
 - Enable `Vibration`
 - Set `Alert reminder` to `Never`
 - Disable `Always alert at full volume`
+
+## Privacy Protection
+
+### Location
+
+Disable location permissions for all apps
+
+Set the following apps to `Ask every time`:
+- Compass
+- Maps
+- Qibla Finder
+- Weather
+
+### Contacts
+
+Disable contact permissions for all apps
+
+Set the following apps to `Allowed`:
+- Contacts
+- Messages
+- Phone
+- WhatsApp Business
+
+### Call logs
+
+Disable call log permissions for all apps
+
+Set the following apps to `Allowed`:
+- Contacts
+- Phone
+- WhatsApp Business
+
+### Microphone
+
+Disable microphone permissions for all apps
+
+### Special permissions
+
+#### All files access
+
+Enable:
+- Cleaner
+- File Manager
+- Gallery
+- ShareMe
+
+#### Device admin apps
+
+Disable this permission for all apps
+
+#### Display over other apps
+
+Enable:
+- Alarmy
+- Cleaner
+- Package installer
+- Phone
+- POCO Launcher
+- Security
+- System service plugin
+- System app updater
+
+#### Do Not Disturb access
+
+Disable it for all apps
+
+#### Media management apps
+
+Disable it for Google Photos
+
+#### Modify system settings
+
+Enable:
+- Cleaner
+- Contacts
+- Downloads
+- File Manager
+- Gallery
+- Gallery Editor
+- Google Play Store
+- Google Play Services
+- Google
+- Music
+- Phone
+- Photos
+- POCO Launcher
+- Security
+- ShareMe
+- Speech Recognition
+- System service plugin
+- System apps updater
+- Xiaomi Account
+- Xiaomi service framework
+
+#### Device & app notifications
+
+Enable:
+- Android Auto
+
+#### Picture-in-picture
+
+Disable it for all apps
+
+#### Install unknown apps
+
+Disable it for all apps
+
+#### Alarms & reminders
+
+Enable:
+- Alarmy
+- Calender
+- Clock
+- Cloud backup
+- File Manager
+- Google
+- Hisnul Muslim
+- Google Maps
+- Masjid Sunnah Nelson
+- Messages
+- Mi Browser
+- Mi Video
+- Music
+- Notepad
+- Notes
+- System apps updater
+- Themes
+- Microsoft To Do
+- Weather
+- WhatsApp Business
+
+#### Usage Access
+
+Enable:
+POCO Launcher
+
+#### Wi-Fi control
+
+Enable:
+POCO Launcher
+
+## Privacy
+
+- Disable `Show passwords`
+
+## Location
+
+- Disable `Location access`
