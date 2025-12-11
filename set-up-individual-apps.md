@@ -50,3 +50,45 @@
 ### Events from Gmail
 
 - Enable `Show events from Gmail`
+
+## Camera
+
+- Disable `Watermark`
+- Enable `Live tips`
+- Disable `Smart suggestions`
+- Enable `Correct distortion in ultra wide shots`
+- Enable `Correct face distortions on group photos`
+- Set the `Picture quality` to `High`
+- Set the `Volume buttons function` to `Volume`
+- Disable `Tap to take a photo`
+- Set `Press & hold Shutter button` to `Focus`
+
+### Customise
+
+  #### Feature layout
+
+    Set the following items on the start screen:
+    - Video
+    - Photo
+    - Pro
+    - Potrait
+    - Night
+    - Slow Motion
+
+  #### Camera modes
+
+    - Set the mode to `More panel`
+
+  #### Colours
+
+    - Set the colour to blue
+
+  #### Sound
+
+  - Set the sound to `Default`
+
+- Disable `Save location info`
+- Enable `Shutter sound`
+- Enable `Pocket mode`
+- Enable `Preserve settings`
+- Set the `Anti banding` to `60 Hz`
