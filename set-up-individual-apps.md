@@ -329,3 +329,26 @@
 - Set `Distance units` to `Kilometers`
 - Disable `Start maps in satellite view`
 - Set `Show scal on map` to `Always`
+
+#### Navigation
+
+  - Set `Mute stats` to `Unmuted`
+  - Set `Guidance volume` to `Normal`
+  - Enable `Play voice over Bluetooth`
+  - Disable `Play voice during phone calls`
+  - Disable `Play audio cues`
+  - Enable `Get alerts for reported incidents and other conditions that may impact your drive`
+  - Disable `Avoid toll roads`
+  - Disable `Avoid motorways`
+  - Disable `Avoid ferries`
+  - Enable `Prefer fuel-efficient routes`
+  - Set the `Map display` `Colour scheme` to `Automatic`
+  - Set the `Distance units` to `Kilometers`
+  - Disable `Keep map north up`
+  - Enable `Show 3D buildings`
+  - Disable `Glanceable directions while navigating`
+  - Enable `Speedometer`
+  - Disable `Driving notifications`
+  - Disable `Bluetooth tunnel beacons`
+  - Disable `Walking` `Live View`
+  - Disable `Walking` `Detailed voice guidance`
