@@ -211,3 +211,41 @@
 
 - Set the `Apperance` to `Light`
 - Set the `Font Size` to the smallest value
+
+## Google Drive
+
+- Set the `Theme` to `Light`
+- Enable `Tranfer files only over Wi-Fi`
+
+## File Manager
+
+- Enable `Show hidden files`
+
+## Gallery
+
+- Disable `Select best photo`
+- Disable `Loop all slides`
+- Enable `Share without location by default`
+- Enable `Share without metadata by default`
+- Enable `Convert HEIF before sending`
+
+## Google
+
+### Privacy and safety
+
+- Disable `Personalised ads`
+- Enable `Personalided search`
+- Set `SafeSearch` to `Blur`
+
+## Other
+
+- Enable `Discover`
+- Disable `Open web pages in the app`
+- Disable `Shorten links to web pages`
+
+### Autocomplete
+  - Disable `Autocomplete with trending searches`
+  - Enable `Apps`
+  - Enable `On-device web suggestions`
+
+- Set `Auto-play video previews` to `Never`
