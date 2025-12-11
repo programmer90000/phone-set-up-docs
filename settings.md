@@ -23,3 +23,17 @@
 ## Connection & sharing
 
 - Disable `NFC`
+
+## Lock Screen
+
+- Set `Sleep` to `2 minutes of inactivity`
+- Disable `Rise to wake`
+- Disable `Double tap to wake or turn off screen when device is locked`
+- Disable `Wake lock screen for notifications`
+- Disable `Wallpaper Carousel`
+- Set the `Lock screen layout` so that the time is in the top center of the screen on one line on the top row and the day and date are on one line underneath
+- Set the `Lock screen owner info` to my name
+- Enable `Show signature on the lock screen`
+- Enable `Display charging animation after device is unlocked`
+- Disable `Launch camera`
+- Enable `Pocket mode`
