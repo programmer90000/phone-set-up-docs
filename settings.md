@@ -253,3 +253,30 @@ Enable notifications for the following apps:
 - Set the `Battery indicator` to `Percentage (next to the icon)
 - Set `Hide notch` to `Hide without moving status bar`
 
+## Home screen
+
+- Set the `Default launcher` to `POCO Launcher`
+- Set the `Background` to `Light`
+- Set the `App drawer background transparency` to `0%`
+- Set the `Icon pack` to `System`
+- Set the `Layout` to `5*6` with `Small` size
+- Disable `Categorise apps`
+
+### App drawer
+
+- Disable `App suggestions`
+- Disable `Group icons by colour`
+- Set the `Scroll bar` to `A-Z`
+- Enable `Vibrate when scrolling`
+
+### Home screen
+
+  - Disable `Fill empty cells`
+  - Disable `Lock Home screen layout`
+  - Disable `Add installed apps to the Home screen automatically`
+  - Enable `Google Discover`
+  - Disable `Show memory status`
+
+- Set `Notification badges` to `Number`
+- Disable `Hide app icons`
+- Disable `Double tap to lock screen`
