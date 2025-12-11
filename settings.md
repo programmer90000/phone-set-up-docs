@@ -280,3 +280,50 @@ Enable notifications for the following apps:
 - Set `Notification badges` to `Number`
 - Disable `Hide app icons`
 - Disable `Double tap to lock screen`
+
+## Wallpaper
+
+- Click `Find more`
+- Click `My account`
+- Click `Wallpapers`
+- Click the plus icon
+- Click `File Manager`
+- Add [background-wallpaper.jpg](./background-wallpaper.jpg)
+
+## Themes
+
+- Click `Themes`
+- Set it to `POCO`
+
+## Passwords & Security
+
+- Enable `Screen Lock`
+- Enable `Fingerprint Unlock`
+- Disable `Privacy Protection Password`
+
+### Emergency Alerts
+
+- Enable `Allow Alerts`
+- Enable `Extreme Alerts`
+- Enable `Severe Alerts`
+- Enable `Vibration`
+- Set `Alert Reminder` to `Never`
+- Disable `Always alert at full volume`
+
+### Emergency SOS
+
+- Disable `Emergency SOS`
+
+### Privacy
+
+- Disable `Find Hub`
+
+#### Theft protection
+
+  - Enable `Theft Detection Lock`
+  - Disable `Offline Device Lock`
+
+- Enable `Protection from Wi-Fi probe requests`
+- Disable `Show Passwords`
+- Disable `Enroll In User Experience Program`
+- Disable `Usage And Diagnostics`
