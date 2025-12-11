@@ -544,3 +544,12 @@ Enable `Sharing`
 ### Family
 
 Disable `Parental controls`
+
+## Recorder
+
+- Disable `Earpiece mode`
+- Enable `Lock screen notifications`
+- Enable `Mute ringer when recording`
+- Enable `Name recordings manually`
+- Set the `Recording format` to `MP3`
+- Set the `Recording quality` to `Standard`
