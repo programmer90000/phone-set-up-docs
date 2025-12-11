@@ -472,3 +472,40 @@ Enable `Sharing`
 ### Flip to silence
 
 - Disable `Flip to silence`
+
+## Google Photos
+
+### Notifications
+
+- Disable `Suggested sharing`
+- Disable `Printing promotions`
+- Disable `Printing drafts`
+- Disable `Prints for you`
+- Disable `Time-based memories`
+- Disable `Themed memories`
+- Disable `Creations`
+- Disable `New tools and templates`
+- Disable `Suggested rotations`
+- Disable `Suggested archive`
+
+### Prefrences
+
+#### Photos view
+
+- Disable `Stack similar photos`
+- Enable `Show content from other apps`
+- Disable `Only show backed-up content`
+- Disable `Hide clutter from other apps`
+
+#### Group similar faces
+
+- Disable `Face groups`
+
+#### Photo grid playback
+
+- Disable `Videos`
+- Disable `Motion photos`
+
+### Sharing
+
+- Disable `Hide video from motion photos`
