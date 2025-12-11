@@ -84,3 +84,172 @@
 - Enable `Play sound when deleting items`
 - Enable `Play sound when charger is connected`
 - Disable `Play audio at startup`
+
+## Notifications & Control centre
+
+### Lock Screen
+
+Set `Format` to `Don't show lock screen notifications
+
+### Floating Notifications
+
+Set `Hide Temporarily` to `Don't hide`
+
+Enable floating notifications for the following apps:
+- Alarmy
+- Google Calendar
+- ChatGPT
+- Clock
+- ClubRight
+- Contacts
+- DeepSeek
+- Google Keep Notes
+- Masjid Sunnah Nelson
+- Messages
+- Notepad
+- Phone
+- Qibla Finder
+- Security
+- Settings
+- StrengthLog
+- Three
+- Microsoft To Do
+- WhatsApp Business
+
+### Notification Badges
+
+Enable Notification Badges for the following apps:
+- Alarmy
+- Android System
+- Google Assistant
+- Calculator
+- Google Calendar
+- Camera
+- ChatGPT
+- Google Chrome
+- Clock
+- ClubRight
+- Compass
+- Contacts
+- DeepSeek
+- Downloads
+- Google Drive
+- File Manager
+- Files by Google
+- Gallery
+- Google Gemini
+- Gmail
+- Google
+- Google News
+- Google One
+- Google Play Store
+- Hisnul Muslim
+- Google Keep Notes
+- Google Maps
+- Masjid Sunnah Nelson
+- Google Meet
+- Messages
+- Mi Browser
+- Mi Store
+- Mi Video
+- Music
+- Notepad
+- Notes
+- Phone
+- Photos
+- POCO Launcher
+- Qibla Finder
+- Recorder
+- Scanner
+- Screen Recorder
+- Security
+- Settings
+- ShareMe
+- StrengthLog
+- Temp Number
+- Themes
+- Three
+- Microsoft To Do
+- WhatsApp Business
+- YouTube
+
+### Notifications
+
+Enable notifications for the following apps:
+- Alarmy
+- Android System
+- Google Assistant
+- Calculator
+- Google Calendar
+- Camera
+- ChatGPT
+- Google Chrome
+- Clock
+- ClubRight
+- Compass
+- Contacts
+- DeepSeek
+- Downloads
+- Google Drive
+- File Manager
+- Files by Google
+- Gallery
+- Google Gemini
+- Gmail
+- Google
+- Google News
+- Google One
+- Google Play Store
+- Hisnul Muslim
+- Google Keep Notes
+- Google Maps
+- Masjid Sunnah Nelson
+- Google Meet
+- Messages
+- Mi Browser
+- Mi Store
+- Mi Video
+- Music
+- Notepad
+- Notes
+- Phone
+- Photos
+- POCO Launcher
+- Qibla Finder
+- Recorder
+- Scanner
+- Screen Recorder
+- Security
+- Settings
+- ShareMe
+- StrengthLog
+- Temp Number
+- Themes
+- Three
+- Microsoft To Do
+- WhatsApp Business
+- YouTube
+
+### Notification Shade
+
+- Set it to `Android`
+
+### Control centre style
+
+- Set it to the `New version`
+
+- Set `Smart Home` to `None`
+
+### Items shown on the Lock screen after swiping down
+
+- Enable `Notification shade`
+- Enable `Control centre`
+
+### Status Bar
+
+- Enable `Show notification icons`
+- Disable `Show connection speed`
+- Disable `Show carrier when device is locked`
+- Set the `Battery indicator` to `Percentage (next to the icon)
+- Set `Hide notch` to `Hide without moving status bar`
+
