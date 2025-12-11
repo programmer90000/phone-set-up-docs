@@ -431,3 +431,44 @@ Enable `Sharing`
 - Enable `Vibration`
 - Set the `Sound` to default
 - Disable `Syncing`
+
+## Phone
+
+### Caller ID and spam
+
+- Enable `See caller and spam ID`
+- Disable `Filter spam calls`
+
+### Accessibility
+
+- Set `TTY mode` to `Off`
+
+### Assisted dialing
+
+- Enable `Assisted dialling`
+
+### Blocked numbers
+
+- Disable `Block calls from unidentified callers`
+
+### Display options
+
+- Set `Sort by` to `First name`
+- Set `Name format` to `First name first`
+- Set `Theme` to `Light`
+
+### Incoming call gesture
+
+- Set the `Incoming call gesture` to `Single tap`
+
+### Quick responses
+
+- Enable `Quick responses`
+
+### Voicemail
+
+- Disable `Visual voicemail`
+
+### Flip to silence
+
+- Disable `Flip to silence`
