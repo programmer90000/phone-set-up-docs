@@ -92,3 +92,17 @@
 - Enable `Pocket mode`
 - Enable `Preserve settings`
 - Set the `Anti banding` to `60 Hz`
+
+## Chat GPT
+
+### Personalization
+
+  - Set the `Base style and tone` to `Professional`
+  - Copy the custom instructions from my main Chat GPT account
+
+- Set the `Apperance` to `Light`
+- Set the `Accent color` to `Default`
+
+### Data controls
+
+  - Disable `Improve the model for everyone`
