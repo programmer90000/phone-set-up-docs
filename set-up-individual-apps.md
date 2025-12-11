@@ -352,3 +352,55 @@
   - Disable `Bluetooth tunnel beacons`
   - Disable `Walking` `Live View`
   - Disable `Walking` `Detailed voice guidance`
+
+## Messages
+
+### RCS Chats
+
+  - Enable `Turn on RCS Chats`
+  - Enable `Send read receipts`
+  - Enable `Show typing indicators`
+  - Disable `Automatically resend as a text`
+  - Disable `Auto-download files that you recieve over mobile data`
+  - Disable `Auto-download files that you receive over roaming`
+
+### Bubbles
+
+  - Set `All conversations can bubble`
+
+- Enable `Hear outgoing and incoming message sounds`
+- Enable `Pinch to zoom conversation text`
+- Disable `Show expressive animations`
+- Set the `Theme` to `Light`
+- Enable `Voice message transcripts`
+- Enable `Gemini in Messages`
+
+### Suggestions
+
+- Enable `Smart Reply`
+- Disable `Suggested Stickers`
+- Enable `Suggested Actions`
+- Disable `Suggest message reminders`
+- Disable `Birthday reminders`
+
+### Automatic Previews
+
+- Enable `Show all previews`
+- Enable `Only download data on Wi-Fi`
+
+### Protection and safety
+
+- Enable `Spam protection`
+
+### Swipe Actiona
+
+- Disable `Swipe Left`
+- Disable `Swipe Right`
+
+### Advanced
+
+- Set `Group Messaging` to `Send an SMS reply to all recipients and get individual replies`
+- Disable `Auto-download MMS`
+- Disable `Use simple characters`
+- Disable `Get SMS delivery reports`
+- Disable `Show iPhone reactions as emojis`
