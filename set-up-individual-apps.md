@@ -590,3 +590,57 @@ Disable `Parental controls`
 - Disable `Plan your day reminders`
 - Disable `Shared list activity` reminders
 - Disable `Due Todat notifications`
+
+## Security
+
+- Disable `Show menu in notification shade`
+
+### Common features shortcut
+
+  - Enable `Cleaner`
+
+### Cleaner
+
+  - Set no exceptions
+  - Enable `Remind to clean`
+  - Set the `Trash size limit` to `100MB`
+  - Set the `Schedule` to `Every day`
+  - Enable `Scan app memory`
+  - Disable `Show Home Screen shortcut`
+  - Enable `Recieve recommendations`
+  - Enable `Load using only Wi-Fi`
+
+### Boost Speed
+
+  - Set no locked apps
+  - Set `Clear cache when device is locked` to `Never`
+
+### Data Usage
+
+  - Enable `Data usage`
+
+  #### Data plan
+
+    - Set `Monthly data limit` to `Check automatically`
+    - Set `When data plan is used up` to `Warn and turn off mobile data
+    - Set `Data usage warning level` to `60%`
+    - Set `Usage reset date` to `1`
+
+  - Disable `Show network speed`
+
+### Battery Optimisation
+
+  - Set `Clear cache when device is locked` to `Never`
+  - Disable `Schedule power on`
+  - Disable `Schedule power off`
+
+### Security scan
+
+  - Set `Definitions` to `Avast`
+  - Enable `Scan before installing`
+  - Enable `Auto updates`
+  - Enable `Root`
+  - Enable `System Updates`
+
+- Enable `Recieve recommendations`
+- Enable `Load using only Wi-Fi`
