@@ -106,3 +106,99 @@
 ### Data controls
 
   - Disable `Improve the model for everyone`
+
+## Google Chrome
+
+### Google services
+  - Enable `Allow Chrome sign-in`
+  - Disable `Help improve Chrome's features and performance`
+  - Disable `Make searches and browsing better`
+  - Enable `Improve search suggestions`
+  - Enable `Touch to Search`
+  - Disable `Include sorrounding text in Google searches`
+
+### Search Engine
+  - Set it to `google.com`
+
+- Set the `Address Bar` to the `Top`
+
+### Privacy and security
+  - Enable `Third-party cookies`
+
+  #### Ads privacy
+    - Disable `Ad topics`
+    - Disable `Site-suggested ads`
+    - Disable `Ads measurement`
+
+  - Enable `Warn you if a password was compromised in a data breach`
+  - Enable `Send a 'Do Not Track` request
+  - Set `Preload pages` to `Standard preloading`
+  - Enable `Lock incognito tabs when you leave Chrome`
+  - Set `Safe Browsing` to `Standard protection`
+  - Enable `Warn you if a password was comprimised in a data breach`
+  - Set `Always use secure connections` to `Warns you for insecure publick and private sites`
+  - Enable `Use secure DNS`
+  - Set `Use secure DNS` to `Use your current service provider`
+  - Enable `JavaScript optimisation and security`
+  - Disable `Access payment methods`
+
+### Payment methods
+
+  - Enable `Save and fill payment methods`
+  - Enable `Verify that it's you to autofill payments`
+  - Disable `Save security codes`
+
+### Addresses and more
+
+  - Enable `Save and fill addresses`
+
+### Tabs and tab groups
+
+  - Set `Move to inactive section` to `Never`
+  - Enable `Automatically open tab groups from other devices`
+
+- Enable `Homepage`
+- Set the homepage to `Chrome's homepage`
+- Disable `Toolbar shortcut`
+- Set the `Theme` to `Light`
+
+### Accessibility
+
+- Set the `Default Zoom` to `100%`
+- Enable `Show zoom option in main menu`
+- Enable `Force enable zoom`
+- Disable `Simplified view for web pages`
+- Enable `Captions`
+- Set the `Caption` `Text Size` to `Small`
+- Set the `Caption` `Text Style` to `White on black`
+
+### Site Settings
+
+- Set `Location` to `Blocked`
+- Set `Camera` to `Blocked`
+- Set `Microphone` to `Blocked`
+- Set `Notifications` to `Ask first`
+- Set `Embedded content` to `Ask first`
+- Set `Motion Sensors` to `Blocked`
+- Set `NFC devices` to `Blocked`
+- Set `USB` to `Ask first`
+- Set `Serial port` to `Blocked`
+- Set `File editing` to `Ask first`
+- Set `Clipboard` to `Ask first`
+- Set `Virtual Reality` to `Blocked`
+- Set `Augmented relaity` to `Blocked`
+- Set `Your device use` to `Blocked`
+- Set `Local network access` to `Blocked`
+- Set `Third-party cookies` to `Third-party cookies are allowed`
+- Set `JavaScript` to `Allowed`
+- Set `Pop-ups and redirects` to `Blocked`
+- Set `Sound` to `Allowed`
+- Set `Intrusive ads` to `Blocked on some sites`
+- Set `Protected content` to `Ask first`
+- Set `Third-part sign-in` to `Allowed`
+- Set `Auto-verify` to `Allowed`
+- Set `On-device site data` to `Sites can save data on your device`
+- Set `Desktop site` to `Off`
+- Set `Background sync` to `Allowed`
+- Set `Automatic downloads` to `Ask first`
+- Enable `JavaScript opimisation and security`
