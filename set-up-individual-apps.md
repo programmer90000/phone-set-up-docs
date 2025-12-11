@@ -265,3 +265,67 @@
 - Disable `Al-Kahf reminders`
 - Enable `Colored Tajweed`
 - Enable `Color legened`
+
+## Google Maps
+
+### Offline Maps Settings
+
+  - Enable `Auto-update offline maps`
+  - Disable `Auto-download recommended maps`
+  - Set `Download Prefrences` to `Over Wi-Fi only`
+
+- Set the `Theme` to `Always in light theme`
+- Set the `Video settings` to `Auto-play off`
+
+### Personal Content
+  - Enable `Google Contacts`
+  - Disable `Timeline emails`
+  - Disable `Google Photos`
+  - Disable `Restricted profile`
+
+### Accessibility settings
+  - Enable `Emphasise accessibility info`
+
+### Notifications
+
+#### Getting around
+
+- Set `Offline maps` to `On`
+- Set `Traffic from nearby events` to `On`
+- Set `Public transport info & maps` to `On`
+- Set `Parking location` to `On`
+- Set `Directions from your computer` to `Off`
+
+#### Reviews and media
+
+- Set `Suggestions to write reviews` to `Off`
+- Set `Likes, milestones & badges` to `Off`
+- Set `Shared & tag photos` to `Off`
+
+#### Location and profile
+
+- Set `Google location sharing (friends)` to `On`
+- Set `Google maps timeline` to `Off`
+- Set `Commute profile` to `On`
+- Set `Google location sharing (you)` to `On`
+- Set `New on Maps` to `Off`
+
+#### Recommendations for you
+
+- Set `Nearby places & events` to `Off`
+- Set `New & trending places` to `Off`
+
+#### Q&A and chat
+
+- Set `Messages from businesses` to `On`
+- Set `Lists` to `On`
+- Set `Places that you've visited` to `Off`
+- Set `Your area, roads & trips` to `Off`
+
+#### Your business
+
+  - Set `Your business` to `On`
+
+- Set `Distance units` to `Kilometers`
+- Disable `Start maps in satellite view`
+- Set `Show scal on map` to `Always`
