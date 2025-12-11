@@ -327,3 +327,24 @@ Enable notifications for the following apps:
 - Disable `Show Passwords`
 - Disable `Enroll In User Experience Program`
 - Disable `Usage And Diagnostics`
+
+## Safety & emergency
+
+### Emergency SOS
+
+  - Disable `Use Emergency SOS`
+  - Enable `Play countdown alarm`
+
+- Enable `Emergency Locations Service`
+- Enable `Emergency alerts`
+- Enable `Unknown tracker alerts`
+- Disable `Silence notifications while driving`
+
+### Emergency Alerts
+
+- Enable `Allow alerts`
+- Enable `Extreme alerts`
+- Enable `Severe alerts`
+- Enable `Vibration`
+- Set `Alert reminder` to `Never`
+- Disable `Always alert at full volume`
