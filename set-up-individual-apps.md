@@ -422,3 +422,12 @@ Enable `Sharing`
 - Disable `Mini cards`
 - Set `Data Saver mode` to `Automatic`
 - Set `Temperature units` to `Celsius`
+
+## Notepad
+
+- Disable `Status bar`
+- Enable `Favourites on top`
+- Set the `Default note colour` to white
+- Enable `Vibration`
+- Set the `Sound` to default
+- Disable `Syncing`
