@@ -30,7 +30,7 @@
 - Mi Store
 - Mi Video
 - Google News
-- Notepad
+- Obsidian
 - Phone
 - Google Photos
 - Google Play Store
