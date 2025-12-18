@@ -504,6 +504,47 @@ Go to Settings
 - Enable `Smart Search`
 - Enable `Show hidden files`
 
+## Fossify File Manager
+
+- Set `Sort By` to `Name` `Ascending`
+- Enable `Sort numeric parts by actual value`
+- Set the `View type` to `List`
+
+### Colours
+
+- Set the `Theme` to `System Default`
+- Set the `App icon colour` to `#1976D2 (Blue)`
+- Disable `Apply colour to all Fossify apps`
+
+### Favourites
+
+- Remove all favourites
+
+### Shown Tabs
+
+- Enable `Files`
+- Enable `Recent files`
+- Enable `Storage analysis`
+
+### Date and time format
+
+- Set the `Date format` to `13/01/2025`
+- Enable `Use 24-hour time format`
+
+### Font size
+
+  - Set the `Font size` to `Small`
+
+- Disable `Require pressing Back twice to leave the app`
+- Enable `Show hidden items`
+- Enable `Pull-to-refresh from top`
+- Enable `Keep old last-modified value at file operations`
+- Disable `Skip delete confirmation dialog`
+- Disable `Password protect hidden item visibility`
+- Enable `Password protect the whole application`
+- Enable `Password protect file deletion and moving`
+
+
 ## Flipboard
 
 Sign in using my Gmail account
