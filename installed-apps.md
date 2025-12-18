@@ -20,6 +20,7 @@
 - Microsoft Edge
 - File Manager
 - Files By Google
+- Fossify File Manager
 - Google Find Hub
 - Google Fit
 - Flipboard
