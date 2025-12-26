@@ -65,26 +65,22 @@
 
 ### Customise
 
-  #### Feature layout
+#### Feature layout
+  Set the following items on the start screen:
+  - Video
+  - Photo
+  - Pro
+  - Potrait
+  - Night
+  - Slow Motion
 
-    Set the following items on the start screen:
-    - Video
-    - Photo
-    - Pro
-    - Potrait
-    - Night
-    - Slow Motion
+#### Camera modes
+  - Set the mode to `More panel`
 
-  #### Camera modes
+#### Colours
+  - Set the colour to blue
 
-    - Set the mode to `More panel`
-
-  #### Colours
-
-    - Set the colour to blue
-
-  #### Sound
-
+#### Sound
   - Set the sound to `Default`
 
 - Disable `Save location info`
