@@ -34,7 +34,7 @@
 - Enable `Show week number`
 - Enable `Show declined events`
 - Enable `Show completed tasks`
-- Enable `Display shorter entries the same size as 30 minute entries.
+- Enable `Display shorter entries the same size as 30 minute entries.`
 - Disable `Show event illustrations`
 - Set the `Default event duration` to `60 minutes`
 
