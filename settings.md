@@ -60,7 +60,6 @@
 - Select the `Alarm` sound
   - Select `Choose local ringtone`
   - Set it to [alarm-sound.mp3](./alarm-sound.mp3)
-- Set the `Alarm` sound to `Roar`
 - Enable `Adjust media sound in multiple apps`
 - Enable `Multiple audio sources`
 - Enable `Allow speaker sound`
