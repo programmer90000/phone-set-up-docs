@@ -47,6 +47,7 @@
 - Set the `Colour Scheme` to `Vivid`
 - Set the `Refresh Rate` to `60 Hz`
 - Set the `Font Settings` to `Default`
+- Disable `Auto-rotate screen`
 
 ## Sound & Vibration
 
