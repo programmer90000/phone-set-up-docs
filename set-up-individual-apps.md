@@ -388,7 +388,7 @@
 
 - Enable `Spam protection`
 
-### Swipe Actiona
+### Swipe Actions
 
 - Disable `Swipe Left`
 - Disable `Swipe Right`
