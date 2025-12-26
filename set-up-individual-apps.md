@@ -83,11 +83,11 @@
 #### Sound
   - Set the sound to `Default`
 
-- Disable `Save location info`
-- Enable `Shutter sound`
-- Enable `Pocket mode`
-- Enable `Preserve settings`
-- Set the `Anti banding` to `60 Hz`
+  - Disable `Save location info`
+  - Enable `Shutter sound`
+  - Enable `Pocket mode`
+  - Enable `Preserve settings`
+  - Set the `Anti banding` to `60 Hz`
 
 ## Chat GPT
 
