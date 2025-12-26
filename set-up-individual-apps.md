@@ -121,10 +121,10 @@
 ### Privacy and security
   - Enable `Third-party cookies`
 
-  #### Ads privacy
-    - Disable `Ad topics`
-    - Disable `Site-suggested ads`
-    - Disable `Ads measurement`
+#### Ads privacy
+  - Disable `Ad topics`
+  - Disable `Site-suggested ads`
+  - Disable `Ads measurement`
 
   - Enable `Warn you if a password was compromised in a data breach`
   - Enable `Send a 'Do Not Track` request
