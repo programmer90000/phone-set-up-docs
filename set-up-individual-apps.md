@@ -23,7 +23,7 @@
 
 #### General
 
-- Set the `Theme` to dark
+- Set the `Theme` to `Light`
 
 ## Google Calendar
 
