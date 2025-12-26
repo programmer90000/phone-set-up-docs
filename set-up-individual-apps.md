@@ -403,12 +403,12 @@
 
 ## Google Keep Notes
 
-Disable `Add new items to bottom`
-Disable `Move ticked items to bottom`
-Enable `Display rich link previews`
-Set the `Theme` to `Light`
-Disable `Create text notes by default`
-Enable `Sharing`
+- Disable `Add new items to bottom`
+- Disable `Move ticked items to bottom`
+- Enable `Display rich link previews`
+- Set the `Theme` to `Light`
+- Disable `Create text notes by default`
+- Enable `Sharing`
 
 ## Google News
 
