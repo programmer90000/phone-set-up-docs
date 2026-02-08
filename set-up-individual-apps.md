@@ -689,6 +689,10 @@ Click Settings
 
 ## Thunderbird
 
+### General Settings
+
+#### Display
+
 - Set the `Language` to `British English`
 - Set the `Theme` to `Dark`
 - Enable `Fixed message theme`
@@ -711,6 +715,18 @@ Click Settings
 - Under `Visible message actions`, enable `Delete`
 - Under `Visible message actions`, disable `Archive` `Move` `Copy` `Spam`
 - Enable `Auto-fit messages`
+
+#### Interaction
+
+- Disable `Volume key navigation`
+- Set `After deleting or moving a message` to `Return to message list`
+- Set `After marking a message as unread` to `Stay on current message`
+- Enable `Confirm actions` for `Delete` `Delete Starred (in message view)` `Delete (from notification)` `Spam` `Discard message` `Mark all messages as read`
+
+##### Swipe Actions
+
+- Set `Right swipe` to `None`
+- Set `Left swipe` to `None`
 
 ## Instagram
 
