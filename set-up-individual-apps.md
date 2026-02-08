@@ -728,6 +728,27 @@ Click Settings
 - Set `Right swipe` to `None`
 - Set `Left swipe` to `None`
 
+#### Notifications
+
+- Disable `Quiet Time`
+- Set `Show 'Delete' button` to `Never`
+- Set `Lock screen notifications` to `No lock screen notifications`
+
+#### Network
+
+- Set `Background sync` to `Always`
+
+#### Privacy
+
+- Disable `Hide mail client`
+- Disable `Hide timezone`
+
+#### Debugging
+
+- Disable `Enable debug logging`
+- Disable `Enable sync debug logging`
+- Disable `Log sensitive information`
+
 ## Instagram
 
 - Login with my main Outlook account
