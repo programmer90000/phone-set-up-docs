@@ -772,6 +772,32 @@ Click Settings
 - Set `When I delete a message` to `Delete from server`
 - Set `Erase deleted messages on server` to `Immediately`
 
+#### Sending mail
+
+##### Composition defaults
+
+  - Set `Your name` to `Abdul Rehman`
+  - Set `Your email address` to `abdulr568@outlook.com`
+  - Set `Bcc all messages to` to nothing
+  - Disable `Use signature`
+- Set `Message format` to `HTML (keep images and formatting)
+- Enable `Always show Cc/Bcc`
+- Disable `Read receipt`
+- Set `Reply quoting style` to `Header`
+- Disable `Quote messages when replying`
+- Disable `Strip signatures on reply`
+- Enable `Upload sent messages`
+
+#### Folders
+
+- Set `Auto-expand folder` to `Inbox`
+- Disable `Show only subscribed folders`
+- Set `Archive folder` to `Automatic (None)`
+- Set `Drafts folder` to `Automatic (Drafts)`
+- Set `Sent folder` to `Automatic (Sent)`
+- Set `Spam folder` to `Automatic (Junk)`
+- Set `Trash folder` to `Automatic (Deleted)`
+
 ## Instagram
 
 - Login with my main Outlook account
