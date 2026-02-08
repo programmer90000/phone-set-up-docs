@@ -603,7 +603,7 @@ Click Settings
 
 - Set the `Inbox type` to `Default Inbox`
 - Set the `Inbox Categories` to `Default Inbox` only
-- Set `Notifications` to `All`
+- Set `Notifications` to `None`
 - Set `Inbox Notifications` to `Notify Once`
 - Disable `Chat`
 - Set the `Default Reply Action` to `Reply`
@@ -626,7 +626,7 @@ Click Settings
 
 - Set the `Inbox type` to `Default Inbox`
 - Set the `Inbox Categories` to `Default Inbox` only
-- Set `Notifications` to `All`
+- Set `Notifications` to `None`
 - Set `Inbox Notifications` to `Notify Once`
 - Disable `Chat`
 - Set the `Default Reply Action` to `Reply`
@@ -649,7 +649,7 @@ Click Settings
 
 - Set the `Inbox type` to `Default Inbox`
 - Set the `Inbox Categories` to `Default Inbox` only
-- Set `Notifications` to `All`
+- Set `Notifications` to `None`
 - Set `Inbox Notifications` to `Notify Once`
 - Disable `Chat`
 - Set the `Default Reply Action` to `Reply`
@@ -672,7 +672,7 @@ Click Settings
 
 - Set the `Inbox type` to `Default Inbox`
 - Set the `Inbox Categories` to `Default Inbox` only
-- Set `Notifications` to `All`
+- Set `Notifications` to `None`
 - Set `Inbox Notifications` to `Notify Once`
 - Disable `Chat`
 - Set the `Default Reply Action` to `Reply`
