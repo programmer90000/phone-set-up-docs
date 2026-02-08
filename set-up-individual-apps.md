@@ -798,6 +798,20 @@ Click Settings
 - Set `Spam folder` to `Automatic (Junk)`
 - Set `Trash folder` to `Automatic (Deleted)`
 
+#### Notifications
+
+- Enable `New mail notifications`
+- Enable `Include outgoing mail`
+- Disable `Contacts only`
+- Disable `Ignore chat messages`
+- Disable `Vibration`
+- Disable `Notification light`
+- Disable `Sync notifications`
+
+#### Search
+
+- Set the `Server search limit` to `25`
+
 ## Instagram
 
 - Login with my main Outlook account
