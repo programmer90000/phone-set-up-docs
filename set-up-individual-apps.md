@@ -687,6 +687,31 @@ Click Settings
 - Disable `Download attachments`
 - Set `Images` to `Ask before displaying external images)
 
+## Thunderbird
+
+- Set the `Language` to `British English`
+- Set the `Theme` to `Dark`
+- Enable `Fixed message theme`
+- Set the `Message view theme` to `Dark`
+- Set the `Composer theme` to `Dark`
+- Disable `Animation`
+- Enable `Show unified inbox`
+- Disable `Show starred count`
+- Set the `Density` to `Compact`
+- Set the `Preview lines` to `2`
+- Enable `Show stars`
+- Disable `Show correspondent names`
+- Enable `Correspondent above subject`
+- Disable `Show contact pictures`
+- Enable `Change colour when read`
+- Enable `Threaded view`
+- Enable `Show floating compose button`
+- Set `Show split-screen` to `Never`
+- Disable `Fixed-width fonts`
+- Under `Visible message actions`, enable `Delete`
+- Under `Visible message actions`, disable `Archive` `Move` `Copy` `Spam`
+- Enable `Auto-fit messages`
+
 ## Instagram
 
 - Login with my main Outlook account
