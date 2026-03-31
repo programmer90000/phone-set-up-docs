@@ -1079,6 +1079,31 @@ Click Settings
 - Set `Emoji view font scale` to `100%`
 - Set `Default emoji skin tone` for `Neutral`
 
+## Toolbar
+
+- Set the `Toolbar mode` to `Toolbar keys only`
+- Enable the `Toolbar keys`: `Settings`, `Clipboard`, `Undo`, `Redo`, `Left`, `Right`, `Cut`, `Up`, `Down`
+- Enable the `Clipboard toolbar keys`: `Clear clipboard`, `Paste`, `Close clipboard history`
+- Disable `Variable toolbar direction`
+
+## Text correction
+
+- Disable `Block offensive words`
+- Disable `Auto-correction`
+- Disable `Auto-capitalisation`
+- Disable `Double-space full stop`
+- Disable `Autospace after punctuation`
+- Enable `No autospace when pressing shift`
+- Disable `Personalised suggestions`
+- Disable `Next-word suggestions`
+- Disable `Punctuation suggestions`
+- Enable `Suggest clipboard content`
+- Disable `Look up contact names`
+- Disable `Look up app names`
+
+## Dictionaries
+- Add a dictionary for `Arabic`
+
 ## Microsoft 365 CoPilot
 
 - Set the `Theme` to `Dark`
