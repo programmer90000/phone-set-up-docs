@@ -1104,6 +1104,17 @@ Click Settings
 ## Dictionaries
 - Add a dictionary for `Arabic`
 
+## Advanced
+- Disable `Force incognito mode`
+- Set the `Key long-press delay` to `300 ms`
+- Set the `Horizontal spacebar swipe gesture` to `None`
+- Set the `Vertical spacebar swipe gesture` to `None`
+- Disable `Delete swipe`
+- Disable `Change input method with space key`
+- Disable `Long press symbols key for numpad`
+- Disable `Emoji for physical keyboard`
+- Disable `Switch to main keyboard`
+
 ## Microsoft 365 CoPilot
 
 - Set the `Theme` to `Dark`
