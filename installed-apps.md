@@ -30,6 +30,7 @@
 - GitHub
 - Gmail
 - Google
+- HeliBoard
 - Hisnul Muslim
 - Instagram
 - iQuran
