@@ -1051,6 +1051,34 @@ Click Settings
 - Set `History retention time` to `No limit`
 - Enable `Show pinned items on top`
 
+## Apperance
+- Set the style to `Material`
+- Set the `Icon style` to `Material`
+- Set the `Caps Lock` icon to a bar with an arrow above
+- Set the `Colour` to `Black`
+- Enable `Key borders`
+- Disable `Auto day/night mode`
+- Disable `Colour navigation bar`
+- Disable `Split keyboard`
+- Disable `Split keyboard (Landscape)`
+- Disable `Narrow key gaps`
+- Set the `Keyboard height scale` to `75%`
+- Set the `Keyboard height scale (Landscpe)` to `75%`
+- Set the `Bottom row scale` to `100%`
+- Set the `Bottom row scale (Landscpe)` to `100%`
+- Set the `Bottom padding scale` to `100%`
+- Set the `Bottom row scale (Landscpe)` to `0%`
+- Enable `Side padding scale` `Landscape`
+- Enable `Side padding scale` `Split keyboard`
+- Set `Side padding scale` `Default` to `0%`
+- Set `Side padding scale` `Landscape` to `0%`
+- Set `Side padding scale` `Split keyboard` to `0%`
+- Set `Side padding scale` `Landscape/ Split keyboard` to `0%`
+- Set `Custom text on spacebar` to `Space`
+- Set `Keyboard font scale` to `100%`
+- Set `Emoji view font scale` to `100%`
+- Set `Default emoji skin tone` for `Neutral`
+
 ## Microsoft 365 CoPilot
 
 - Set the `Theme` to `Dark`
