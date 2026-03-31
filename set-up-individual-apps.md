@@ -1039,8 +1039,17 @@ Click Settings
 - Disable `Vibrate on key press`
 - Disable `Sound on key press`
 - Disable `Remember language per app`
-- Enable `Show emoji description on long press`
-
+- Disable `Show emoji description on long press`
+- Enable `Number row`
+- Enable `Localise number row`
+- Disable `Show hints on number row`
+- Enable `Language switch key`
+- Set `Language switch key behaviour` to `Switch Language`
+- Disable `Emoji key`
+- Disable `Remove redundant popups`
+- Enable `Clipboard history`
+- Set `History retention time` to `No limit`
+- Enable `Show pinned items on top`
 
 ## Microsoft 365 CoPilot
 
