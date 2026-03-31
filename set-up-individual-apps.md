@@ -1023,6 +1023,25 @@ Click Settings
 - Disable `Create text notes by default`
 - Disable `Sharing`
 
+# Heliboard
+
+## Languages & Layout
+- Enable `English (UK)`
+- Enable `Arabic`
+
+## Prefrences
+- Enable `Show key hints`
+- Inside `Select hint source`, enable: `Number row`, `Language (priority)`, `Layout`, `Symbols`, `Language`
+- Inside `Select popup key order`, enable: `Number row`, `Language (priority)`, `Layout`, `Symbols`, `Language`
+- Enable `Show functional hints`
+- Enable `Show TLD popup keys`
+- Enable `Pop-up on key press`
+- Disable `Vibrate on key press`
+- Disable `Sound on key press`
+- Disable `Remember language per app`
+- Enable `Show emoji description on long press`
+
+
 ## Microsoft 365 CoPilot
 
 - Set the `Theme` to `Dark`
