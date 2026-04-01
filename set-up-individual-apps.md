@@ -1332,6 +1332,14 @@ Add the following items:
 - Enable `Show file extensions`
 - Disable `Shake to send feedback`
 
+## NetGuard
+
+- Enable it
+- Enable `Show apps without internet`
+- Enable `Show disabled apps`
+
+### 
+
 ## Google Photos
 
 ### Notifications
