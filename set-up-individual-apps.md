@@ -1338,7 +1338,17 @@ Add the following items:
 - Enable `Show apps without internet`
 - Enable `Show disabled apps`
 
-### 
+### Defaults (white/ blacklist)
+- Enable `Block Wi-Fi`
+- Enable `Block mobile`
+- Enable `Apply 'when screen on' rules`
+- Disable `Allow Wi-Fi when screen on`
+- Disable `Allow mobile when screen on`
+- Enable `Block roaming`
+
+### Options
+- Set the `Theme` to `teal/orange`
+
 
 ## Google Photos
 
