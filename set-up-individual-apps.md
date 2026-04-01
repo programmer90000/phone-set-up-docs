@@ -1353,6 +1353,25 @@ Add the following items:
 - Set `Auto enable after` to `0` `minutes`
 - Set `Delay screen off` to `0` `minutes`
 
+### Network options
+- Disable `Subnet routing`
+- Disable `Handle metered Wi-Fi networks`
+- Disable `Consider 2G unmetered`
+- Disable `Consider 3G unmetered`
+- Disable `Consider LTE unmetered`
+- Disable `Ignore national roaming`
+- Disable `Ignore EU roaming`
+- Disable `Disable on call`
+- Enable `Lockdown Wi-Fi`
+- Enable `Lockdown mobile`
+
+### Advanced Options
+- Disable `Manage system apps`
+- Disable `Log internet access`
+- Disable `Filter traffic`
+
+### Speed notification
+- Disable `Show speed notification`
 
 ## Google Photos
 
