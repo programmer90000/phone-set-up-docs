@@ -1348,6 +1348,10 @@ Add the following items:
 
 ### Options
 - Set the `Theme` to `teal/orange`
+- Enable `Use dark theme`
+- Disable `Notify on new install`
+- Set `Auto enable after` to `0` `minutes`
+- Set `Delay screen off` to `0` `minutes`
 
 
 ## Google Photos
