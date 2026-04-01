@@ -42,6 +42,7 @@
 - Messages
 - Monzo
 - Nationwide
+- NetGuard
 - Obsidian
 - OHealth
 - OneDrive
