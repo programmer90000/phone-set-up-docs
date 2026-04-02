@@ -20,6 +20,7 @@
 - Gmail
 - Google
 - Google One
+- HeliBoard
 - Hisnul Muslim
 - iQuran Lite
 - Google Keep Notes
@@ -29,6 +30,7 @@
 - Mi Browser
 - Mi Store
 - Mi Video
+- NetGuard
 - Google News
 - Obsidian
 - Phone
