@@ -419,6 +419,47 @@
 - Set `Data Saver mode` to `Automatic`
 - Set `Temperature units` to `Celsius`
 
+## NetGuard
+
+- Enable it
+- Enable `Show apps without internet`
+- Enable `Show disabled apps`
+
+### Defaults (white/ blacklist)
+- Enable `Block Wi-Fi`
+- Enable `Block mobile`
+- Enable `Apply 'when screen on' rules`
+- Disable `Allow Wi-Fi when screen on`
+- Disable `Allow mobile when screen on`
+- Enable `Block roaming`
+
+### Options
+- Set the `Theme` to `teal/orange`
+- Enable `Use dark theme`
+- Disable `Notify on new install`
+- Set `Auto enable after` to `0` `minutes`
+- Set `Delay screen off` to `0` `minutes`
+
+### Network options
+- Disable `Subnet routing`
+- Disable `Handle metered Wi-Fi networks`
+- Disable `Consider 2G unmetered`
+- Disable `Consider 3G unmetered`
+- Disable `Consider LTE unmetered`
+- Disable `Ignore national roaming`
+- Disable `Ignore EU roaming`
+- Disable `Disable on call`
+- Enable `Lockdown Wi-Fi`
+- Enable `Lockdown mobile`
+
+### Advanced Options
+- Disable `Manage system apps`
+- Disable `Log internet access`
+- Disable `Filter traffic`
+
+### Speed notification
+- Disable `Show speed notification`
+
 ## Notepad
 
 - Disable `Status bar`
