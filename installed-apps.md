@@ -1,6 +1,7 @@
 # Installed Apps
 
 - Alarmy
+- App Lock
 - Google Assistant
 - Calculator
 - Google Calendar
