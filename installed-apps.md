@@ -1,6 +1,7 @@
 # Installed Apps
 - Alarmy
 - Amazon Shopping
+- App Lock
 - App Mall
 - BBC Weather
 - Bing
