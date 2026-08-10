@@ -53,6 +53,7 @@
 - OHealth
 - OneDrive
 - Phone
+- Fossify Phone
 - Quran Majeed
 - Google Photos
 - Google Play Store
