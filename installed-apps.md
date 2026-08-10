@@ -55,6 +55,7 @@
 - Scuderia Ferrari
 - StrengthLog
 - Three
+- Tmux
 - Microsoft To Do
 - Settings
 - Simple Reminder
