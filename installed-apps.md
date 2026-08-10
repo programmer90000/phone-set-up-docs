@@ -15,6 +15,7 @@
 - Clock
 - ClubRight
 - Contacts
+- Fossify Contacts
 - DeepSeek
 - Google Docs
 - Google Drive
@@ -27,6 +28,7 @@
 - Flipboard
 - Formula 1
 - Gallery
+- Fossify Gallery
 - Google Gemini
 - GitHub
 - Gmail
@@ -34,14 +36,15 @@
 - HeliBoard
 - Hisnul Muslim
 - Instagram
-- iQuran
 - Google Keep
 - Microsoft 365 Copilot
 - Manchester United
 - Google Maps
 - Masjid Sunnah Nelson
 - Messages
+- Fossify Messages
 - Monzo
+- Fossify Music Player
 - Nationwide
 - NetGuard
 - Obsidian
