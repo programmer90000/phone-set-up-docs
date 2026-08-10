@@ -65,7 +65,7 @@
 - StrengthLog
 - Temp Number
 - Three
-- Tmux
+- Termux
 - Thunderbird
 - Microsoft To Do
 - Settings
