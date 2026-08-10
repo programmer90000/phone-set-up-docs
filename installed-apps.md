@@ -57,12 +57,17 @@
 - Pockit
 - Raindrop
 - Scuderia Ferrari
+- Simple Reminder
+- Sonicare
 - StrengthLog
+- Temp Number
 - Three
 - Tmux
+- Thunderbird
 - Microsoft To Do
 - Settings
 - Simple Reminder
 - Google Translate
+- Vivaldi
 - WhatsApp Business
 - YouTube
