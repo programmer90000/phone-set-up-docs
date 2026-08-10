@@ -20,6 +20,7 @@
 - Google Docs
 - Google Drive
 - Microsoft Edge
+- F-Droid
 - File Manager
 - Files By Google
 - Fossify File Manager
