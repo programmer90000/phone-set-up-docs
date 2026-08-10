@@ -51,6 +51,7 @@
 - OHealth
 - OneDrive
 - Phone
+- Quran Majeed
 - Google Photos
 - Google Play Store
 - Pockit
