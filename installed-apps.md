@@ -22,6 +22,7 @@
 - Microsoft Edge
 - F-Droid
 - File Manager
+- Fossify File Manager
 - Files By Google
 - Fossify File Manager
 - Google Find Hub
