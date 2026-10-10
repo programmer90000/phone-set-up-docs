@@ -1545,7 +1545,31 @@ Enable the following:
 - Disable `Show Vivaldi Game in menu`
 - Select `Customise menu`
   - Set it to: `Back` `Forward` `Refresh page` `Share` `Find in page` `Settings` `Download this page` `Capture page` `Page actions` `Desktop site` `Reader view` `Duplicate tab` `Bookmark page` `Default zoom` `Translate` `Reading list` `Homepage`
-
+- Enable `Show scrollbars`
+- Disable `Show toolbars while scrolling`
+- Disable `Show start page icon in address bar`
+- Set Status Bar Visibility to `Show status bar`
+- Enable `Show keyboard accessory view`
+- Disable `Toolbar shortcut`
+- Enable `Show navigation bar`
+- Disable `Addres bar at bottom`
+- Disable `Reverse search suggestion order`
+- Disable `Show tab bar`
+- Set Tab Stacking to `Two level`
+- Disable `Swipe to close tab`
+- Disable `Show X button for background tabs`
+- Disable `Show tab as favicon`
+- Set the Minimum Tab Width to `90 pixels`
+- Set the New Tab Position to the `Last tab`
+- Disable `Focus address bar on new tab`
+- Set `Automatically close tabs` to `Never`
+- Enable `Show undo message on tab close`
+- Set the Start page layout to `Small speed dials`
+- Disable `Show top sites`
+- Enable `Show speed dials`
+- Set Reopen Start page with `Last visited group`
+- Enable `Show customise start page button`
+- Enable `Show add button`
 
 ## WhatsApp
 
