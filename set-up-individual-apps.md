@@ -1535,6 +1535,16 @@ Enable the following:
 - Enable `Search History`
 - Enable `History`
 - Disable `Direct Match`
+- Enable `Save Passwords`
+- Enable `Auto Sign-in`
+- Enable `Save and fill payment methods`
+- Enable `Verify that it's you to autofill payment methods`
+- Enable `Save and fill addresses`
+- Disable `Use Android autofill services`
+- Set the theme to `Dark`
+- Disable `Show Vivaldi Game in menu`
+- Select `Customise menu`
+  - Set it to: `Back` `Forward` `Refresh page` `Share` `Find in page` `Settings` `Download this page` `Capture page` `Page actions` `Desktop site` `Reader view` `Duplicate tab` `Bookmark page` `Default zoom` `Translate` `Reading list` `Homepage`
 
 
 ## WhatsApp
