@@ -1516,6 +1516,8 @@ Enable the following:
 - Enable `Show active workouts as a notification on the lock screen`
 - Disable `Share my data anonymously with scientific studies`
 
+## Vivaldi
+
 ## WhatsApp
 
 ### Account
