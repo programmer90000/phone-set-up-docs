@@ -1570,6 +1570,23 @@ Enable the following:
 - Set Reopen Start page with `Last visited group`
 - Enable `Show customise start page button`
 - Enable `Show add button`
+- Set the App Icon to the default
+- Enable `Always use secure connection`
+- Select `Warns you for insecure public and private sites`
+- Enable `Lock private tabs when you leave Vivaldi`
+- Disable `Access payment methods`
+- Disable `Preloading`
+- Enable `Use secure DNS`
+- Select `Use your current service provider`
+- Enable `Send a Do Not Track request`
+- Disable `Touch to search`
+- Enable `Don't open links in extrernal apps`
+- Disable `Clear session browsing data on exit`
+- Disable `Broadcast IP for best WebRTC performance`
+- Set the default blocking level to `Block trackers and ads`
+- Disable `Always show desktop site`
+- Enable `Open PDFs in Vivaldi`
+- Enable `Disable PWA install prompts`
 
 ## WhatsApp
 
