@@ -1518,6 +1518,25 @@ Enable the following:
 
 ## Vivaldi
 
+- Set the homepage to the default
+- Enable `Allow background autoplay`
+- Disable `Double tap on the system back button to close the app`
+- Enable `Pull to refresh`
+- Set the Search Engine on a Standard Tab to Google
+- Set the Search Engine on a Private Tab to Google
+- Disable `Show search engine suggestions`
+- Disable `Search Engine Nicknames`
+- Enable `Show X for removing suggestions`
+- Enaable `Show typed history`
+- Disable `Address bar swipe gesture`
+- Disable `Calculator`
+- Disable `Bookmarks`
+- Enable `Search Suggestions`
+- Enable `Search History`
+- Enable `History`
+- Disable `Direct Match`
+
+
 ## WhatsApp
 
 ### Account
