@@ -7,6 +7,7 @@
 - Bing
 - Brave Browser
 - Calculator
+- Claude
 - Google Calendar
 - Fossify Calendar
 - Camera
