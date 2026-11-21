@@ -4,6 +4,7 @@
 - App Lock
 - Google Assistant
 - Calculator
+- Claude
 - Google Calendar
 - Camera
 - ChatGPT
